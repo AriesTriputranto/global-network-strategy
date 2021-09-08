@@ -1,3 +1,5 @@
+Menu<>page
+Present:
 # Guide to Establishing a Chapter
 
 You want to start a new Chapter in your country? Great, this is your guide.
