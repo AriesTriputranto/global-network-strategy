@@ -1,0 +1,789 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://wiki.creativecommons.org/wiki/Atom
+Subject: Atom - Creative Commons
+Date: Thu, 30 Sep 2021 11:47:05 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--AkoDX1rkmywTS0Xh9UBRgVr1gZDEaPqW5Meyh8HAxY----"
+
+
+------MultipartBoundary--AkoDX1rkmywTS0Xh9UBRgVr1gZDEaPqW5Meyh8HAxY----
+Content-Type: text/html
+Content-ID: <frame-85ADA96B1A0753ECB7CCBB7DBA2B5CC8@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: https://wiki.creativecommons.org/wiki/Atom
+
+<!DOCTYPE html><html class="client-js" lang="en" dir="ltr"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<title>Atom - Creative Commons</title>
+
+
+<link rel="stylesheet" href="https://wiki.creativecommons.org/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=styles&amp;skin=vector">
+
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="https://wiki.creativecommons.org/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector">
+<meta name="generator" content="MediaWiki 1.30.0">
+<link rel="shortcut icon" href="https://wiki.creativecommons.org/favicon.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="https://wiki.creativecommons.org/opensearch_desc.php" title="Creative Commons (en)">
+<link rel="EditURI" type="application/rsd+xml" href="https://wiki.creativecommons.org/api.php?action=rsd">
+<link rel="license" href="https://creativecommons.org/licenses/by/4.0/">
+<link rel="alternate" type="application/atom+xml" title="Creative Commons Atom feed" href="https://wiki.creativecommons.org/index.php?title=Special:RecentChanges&amp;feed=atom">
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js?40bd4"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Atom rootpage-Atom skin-vector action-view"> <div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+<a id="top"></a>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Atom</h1>
+<div id="bodyContent" class="mw-body-content">
+<div id="siteSub" class="noprint">From Creative Commons</div>
+<div id="contentSub"></div>
+<div id="jump-to-nav" class="mw-jump">
+Jump to: <a href="https://wiki.creativecommons.org/wiki/Atom#mw-head">navigation</a>, <a href="https://wiki.creativecommons.org/wiki/Atom#p-search">search</a>
+</div>
+<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table style="width:70%; font-size:90%; border:1px solid #aaaaaa; background-color:#f9f9f9; color:black; margin-bottom:0.5em; padding:0.2em; clear:both; text-align:left;" align="center" border="1" cellpadding="4" cellspacing="0">
+<tbody><tr>
+<th style="text-align: center; background-color:#ccccff;" colspan="3"><big>File Type Information</big></th>
+</tr>
+<tr>
+<th>Supports embedding license URL:</th>
+<td><a href="https://wiki.creativecommons.org/index.php?title=Supports_license_url::True&amp;action=edit&amp;redlink=1" class="new" title="Supports license url::True (page does not exist)">supports_license_url::True</a></td>
+</tr>
+<tr>
+<th>Supports embedding <a href="https://wiki.creativecommons.org/wiki/Web_Statement" title="Web Statement">web statement</a>:</th>
+<td><a href="https://wiki.creativecommons.org/index.php?title=Supports_web_statement::True&amp;action=edit&amp;redlink=1" class="new" title="Supports web statement::True (page does not exist)">supports_web_statement::True</a></td>
+</tr>
+<tr>
+<th>Supports embedding <a href="https://wiki.creativecommons.org/wiki/CCPlus" title="CCPlus">more permissions</a>:</th>
+<td><a href="https://wiki.creativecommons.org/index.php?title=Supports_more_permissions::True&amp;action=edit&amp;redlink=1" class="new" title="Supports more permissions::True (page does not exist)">supports_more_permissions::True</a></td>
+</tr>
+<tr>
+<th>Metadata Location:</th>
+<td>[[Metadata location::{{{metadata_location}}}]] | (unknown) }}</td>
+</tr>
+<tr>
+<th>Metadata Format:</th>
+<td>[[Metadata format::{{{metadata_format}}}]] | (unknown) }}</td>
+</tr>
+</tbody></table>
+<p><br></p>
+<p>Atom is a syndication (feed) format, defined by the <a rel="nofollow" class="external text" href="https://ietf.org/">IETF</a> in <a rel="nofollow" class="external text" href="https://www.ietf.org/rfc/rfc4287.txt">RFC 4287</a>. <a rel="nofollow" class="external text" href="https://www.ietf.org/rfc/rfc4946.txt">RFC 4946</a> defines an extension to Atom 1.0 for specifying license information.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="https://wiki.creativecommons.org/wiki/Atom#Example_Uses"><span class="tocnumber">1</span> <span class="toctext">Example Uses</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="https://wiki.creativecommons.org/wiki/Atom#Specifying_a_License"><span class="tocnumber">2</span> <span class="toctext">Specifying a License</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="https://wiki.creativecommons.org/wiki/Atom#Additional_Metadata"><span class="tocnumber">3</span> <span class="toctext">Additional Metadata</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="https://wiki.creativecommons.org/wiki/Atom#Using_links"><span class="tocnumber">3.1</span> <span class="toctext">Using links</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="https://wiki.creativecommons.org/wiki/Atom#Using_RDFa"><span class="tocnumber">3.2</span> <span class="toctext">Using RDFa</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="https://wiki.creativecommons.org/wiki/Atom#Use_with_Enclosures"><span class="tocnumber">3.3</span> <span class="toctext">Use with Enclosures</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Example_Uses">Example Uses</span></h2>
+<ul>
+<li>Feed: <a rel="nofollow" class="external free" href="http://ccmixter.org/media/feed/atom/audio">http://ccmixter.org/media/feed/atom/audio</a></li>
+<li>Consumer: <a href="https://wiki.creativecommons.org/wiki/CcHost" title="CcHost">ccHost</a> via <a href="https://wiki.creativecommons.org/wiki/Sample_Pool_API" title="Sample Pool API">Sample Pool API</a></li>
+</ul>
+<h2><span class="mw-headline" id="Specifying_a_License">Specifying a License</span></h2>
+<p>Licenses are specified using the <code>link</code> element with <code>rel="license"</code>.</p>
+<p>License information may be provided at either the feed or the entry level; in the case that both exist, the entry license overrides the feed. Note that more than one license may be specified at either level, denoting a multiple license offering.</p>
+<pre>    &lt;feed xmlns="<a rel="nofollow" class="external free" href="https://www.w3.org/2005/Atom">http://www.w3.org/2005/Atom</a>"&gt;
+      &lt;id&gt;<a rel="nofollow" class="external free" href="http://www.example.com/myfeed">http://www.example.com/myfeed</a>&lt;/id&gt;
+      &lt;title&gt;My Example Feed&lt;/title&gt;
+      &lt;updated&gt;2005-07-28T12:00:00Z&lt;/updated&gt;
+      &lt;link href="<a rel="nofollow" class="external free" href="http://www.example.com/myfeed">http://www.example.com/myfeed</a>" /&gt;
+      &lt;link rel="license" type="application/rdf+xml"
+        href="<a rel="nofollow" class="external free" href="https://creativecommons.org/licenses/by-nc/2.5/rdf">http://creativecommons.org/licenses/by-nc/2.5/rdf</a>" /&gt;
+      &lt;author&gt;&lt;name&gt;James&lt;/name&gt;&lt;/author&gt;
+      &lt;entry&gt;
+        &lt;id&gt;tag:entries.org,2005:1&lt;/id&gt;
+        &lt;title&gt;Atom Powered Robots Run Amok&lt;/title&gt;
+        &lt;updated&gt;2005-06-28T12:00:00Z&lt;/updated&gt;
+        &lt;link href="<a rel="nofollow" class="external free" href="http://www.example.org/entries/1">http://www.example.org/entries/1</a>" /&gt;
+        &lt;summary&gt;Atom Powered Robots Run Amok&lt;/summary&gt;
+        &lt;author&gt;&lt;name&gt;Jane Smith&lt;/name&gt;&lt;/author&gt;
+        &lt;link rel="license" type="text/html"
+          href="<a rel="nofollow" class="external free" href="https://creativecommons.org/licenses/by/2.5/">http://creativecommons.org/licenses/by/2.5/</a>" /&gt;
+      &lt;/entry&gt;
+    &lt;/feed&gt;
+</pre>
+<p>In the example above the entire feed is licensed under Attribute-Non Commercial 2.5, with the one entry licensed under Attribution 2.5.</p>
+<h2><span class="mw-headline" id="Additional_Metadata">Additional Metadata</span></h2>
+<p>A <a href="https://wiki.creativecommons.org/wiki/WebStatement" class="mw-redirect" title="WebStatement">web statement</a> provides additional confidence regarding metadata assertions. <a href="https://wiki.creativecommons.org/index.php?title=MorePermissions&amp;action=edit&amp;redlink=1" class="new" title="MorePermissions (page does not exist)">morePermissions</a> allows content creators to provide a link to a URL where additional permissions, beyond those provided by the license, may be secured.</p>
+<p>Atom provides support for extending the feed using fully qualified URIs for the <code>rel</code> attribute on <code>link</code> tags. The web statement and more permissions information may be supplied one of two ways: as a <code>link</code> or as <a href="https://wiki.creativecommons.org/wiki/RDFa" title="RDFa">RDFa</a> in the <code>content</code> of an entry. A metadata-interested consumer will inspect both locations for available metadata.</p>
+<h3><span class="mw-headline" id="Using_links">Using <code>link</code>s</span></h3>
+<pre><code>
+       &lt;entry&gt;
+         &lt;id&gt;tag:entries.org,2005:1&lt;/id&gt;
+         &lt;title&gt;Atom Powered Robots Run Amok&lt;/title&gt;
+         &lt;updated&gt;2005-06-28T12:00:00Z&lt;/updated&gt;
+         &lt;link href="http://www.example.org/entries/1" /&gt;
+         &lt;summary&gt;Atom Powered Robots Run Amok&lt;/summary&gt;
+         &lt;author&gt;&lt;name&gt;Jane Smith&lt;/name&gt;&lt;/author&gt;
+         &lt;link rel="license" type="text/html"
+           href="http://creativecommons.org/licenses/by/2.5/" /&gt;
+
+         &lt;link rel="http://ns.adobe.com/xap/1.0/rights/WebStatement"
+           type="text/html" href="http://example.org/more_info" /&gt;
+         &lt;link rel="http://creativecommons.org/ns#morePermissions"
+           type="text/html" href="http://example.org/pay_me" /&gt;
+
+       &lt;/entry&gt;
+</code></pre>
+<h3><span class="mw-headline" id="Using_RDFa">Using <a href="https://wiki.creativecommons.org/wiki/RDFa" title="RDFa">RDFa</a></span></h3>
+<pre><code>
+       &lt;entry&gt;
+         &lt;id&gt;tag:entries.org,2005:1&lt;/id&gt;
+         &lt;title&gt;Atom Powered Robots Run Amok&lt;/title&gt;
+         &lt;updated&gt;2005-06-28T12:00:00Z&lt;/updated&gt;
+         &lt;link href="http://www.example.org/entries/1" /&gt;
+         &lt;summary&gt;Atom Powered Robots Run Amok&lt;/summary&gt;
+         &lt;author&gt;&lt;name&gt;Jane Smith&lt;/name&gt;&lt;/author&gt;
+         &lt;link rel="license" type="text/html"
+           href="http://creativecommons.org/licenses/by/2.5/" /&gt;
+
+         &lt;link rel="http://ns.adobe.com/xap/1.0/rights/WebStatement"
+           type="text/html" href="http://example.org/more_info" /&gt;
+         &lt;link rel="http://creativecommons.org/ns#morePermissions"
+           type="text/html" href="http://example.org/pay_me" /&gt;
+
+         &lt;content type="xhtml" xml:lang="en"&gt;
+           &lt;div xmlns="http://www.w3.org/1999/xhtml" 
+                xmlns:cc="http://creativecommons.org/ns#"
+                xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/"&gt;
+             &lt;p&gt;Lorem, ipsum; 
+                &lt;a href="http://example.org/more_info" rel="xmpRights:WebStatement"&gt;more metadata&lt;/a&gt;
+                &lt;a href="http://example.org/pay_me" rel="cc:morePermissions"&gt;additional rights&lt;/a&gt;
+             &lt;/p&gt;
+          &lt;/div&gt;
+       &lt;/content&gt;
+
+       &lt;/entry&gt;
+</code></pre>
+<h3><span class="mw-headline" id="Use_with_Enclosures">Use with Enclosures</span></h3>
+<p>Using RDFa you can also provide additional metadata about linked content. This is useful when deploying a podcast; your XHTML can provide rich metadata which allows clients to increase confidence in the metadata.</p>
+
+
+</div>
+
+</div> <div class="printfooter">
+Retrieved from "<a dir="ltr" href="https://wiki.creativecommons.org/index.php?title=Atom&amp;oldid=97357">https://wiki.creativecommons.org/index.php?title=Atom&amp;oldid=97357</a>" </div>
+<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="https://wiki.creativecommons.org/wiki/Special:Categories" title="Special:Categories">Category</a>: <ul><li><a href="https://wiki.creativecommons.org/wiki/Category:Filetype" title="Category:Filetype">Filetype</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-userpage"><a href="https://wiki.creativecommons.org/wiki/User:CCID-aariestriputranto" class="new" dir="auto" title="Your user page [.]" accesskey=".">CCID-aariestriputranto</a></li><li id="pt-mytalk"><a href="https://wiki.creativecommons.org/wiki/User_talk:CCID-aariestriputranto" class="new" title="Your talk page [n]" accesskey="n">Talk</a></li><li id="pt-preferences"><a href="https://wiki.creativecommons.org/wiki/Special:Preferences" title="Your preferences">Preferences</a></li><li id="pt-watchlist"><a href="https://wiki.creativecommons.org/wiki/Special:Watchlist" title="A list of pages you are monitoring for changes [l]" accesskey="l">Watchlist</a></li><li id="pt-mycontris"><a href="https://wiki.creativecommons.org/wiki/Special:Contributions/CCID-aariestriputranto" title="A list of your contributions [y]" accesskey="y">Contributions</a></li><li id="pt-logout"><a href="https://wiki.creativecommons.org/index.php?title=Special:UserLogout&amp;returnto=Atom" title="Log out">Log out</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li id="ca-nstab-main" class="selected"><span><a href="https://wiki.creativecommons.org/wiki/Atom" title="View the content page [c]" accesskey="c">Page</a></span></li>
+<li id="ca-talk" class="new"><span><a href="https://wiki.creativecommons.org/index.php?title=Talk:Atom&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Discussion</a></span></li>
+</ul>
+</div>
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li id="ca-view" class="selected"><span><a href="https://wiki.creativecommons.org/wiki/Atom">Read</a></span></li>
+<li id="ca-viewsource"><span><a href="https://wiki.creativecommons.org/index.php?title=Atom&amp;action=edit" title="This page is protected.
+You can view its source [e]" accesskey="e">View source</a></span></li>
+<li id="ca-history" class="collapsible"><span><a href="https://wiki.creativecommons.org/index.php?title=Atom&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+<li id="ca-watch" class="icon mw-watchlink"><span><a href="https://wiki.creativecommons.org/index.php?title=Atom&amp;action=watch" data-mw="interface" title="Add this page to your watchlist [w]" accesskey="w">Watch</a></span></li>
+</ul>
+</div>
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="https://wiki.creativecommons.org/index.php" id="searchform">
+<div id="simpleSearch">
+<input type="search" name="search" placeholder="Search Creative Commons" title="Search Creative Commons [f]" accesskey="f" id="searchInput"><input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="https://wiki.creativecommons.org/wiki/Main_Page" title="Visit the main page"></a></div>
+<div class="portal" role="navigation" id="p-default_links" aria-labelledby="p-default_links-label">
+<h3 id="p-default_links-label">default links</h3>
+<div class="body">
+<ul>
+<li id="n-About"><a href="https://wiki.creativecommons.org/wiki/CCWiki:About">About</a></li><li id="n-FAQ"><a href="https://wiki.creativecommons.org/wiki/Frequently_Asked_Questions">FAQ</a></li><li id="n-Developers"><a href="https://wiki.creativecommons.org/wiki/Developer">Developers</a></li> </ul>
+</div>
+</div>
+<div class="portal" role="navigation" id="p-wiki_navigation" aria-labelledby="p-wiki_navigation-label">
+<h3 id="p-wiki_navigation-label">wiki navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage"><a href="https://wiki.creativecommons.org/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main Page</a></li><li id="n-portal"><a href="https://wiki.creativecommons.org/wiki/CCWiki:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="https://wiki.creativecommons.org/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="https://wiki.creativecommons.org/wiki/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents" title="The place to find out">Help</a></li> </ul>
+</div>
+</div>
+<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a href="https://wiki.creativecommons.org/wiki/Special:WhatLinksHere/Atom" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="https://wiki.creativecommons.org/wiki/Special:RecentChangesLinked/Atom" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="https://wiki.creativecommons.org/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="https://wiki.creativecommons.org/index.php?title=Atom&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="https://wiki.creativecommons.org/index.php?title=Atom&amp;oldid=97357" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="https://wiki.creativecommons.org/index.php?title=Atom&amp;action=info" title="More information about this page">Page information</a></li> </ul>
+</div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 14 March 2014, at 01:07.</li>
+<li id="footer-info-copyright">This wiki is licensed to the public under a <a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0</a> license.<br> Your use of this wiki is governed by the <a href="https://wiki.creativecommons.org/CcWiki:Terms_of_Use">Terms of Use</a>.
+</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a href="https://wiki.creativecommons.org/wiki/CCWiki:Privacy_policy" title="CCWiki:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="https://wiki.creativecommons.org/wiki/CCWiki:About" class="mw-redirect" title="CCWiki:About">About Creative Commons</a></li>
+<li id="footer-places-disclaimer"><a href="https://wiki.creativecommons.org/wiki/CCWiki:General_disclaimer" class="mw-redirect" title="CCWiki:General disclaimer">Disclaimers</a></li>
+</ul>
+<ul id="footer-icons" class="noprint">
+<li id="footer-copyrightico">
+<a href="https://creativecommons.org/licenses/by/4.0/">
+
+<img data-cfsrc="https://licensebuttons.net/l/by/4.0/88x31.png" alt="Creative Commons Attribution 4.0" width="88" height="31" src="https://licensebuttons.net/l/by/4.0/88x31.png"></a> </li>
+<li id="footer-poweredbyico">
+<a href="https://www.mediawiki.org/"><img data-cfsrc="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" src="https://wiki.creativecommons.org/resources/assets/poweredby_mediawiki_88x31.png"></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+
+
+
+</body></html>
+------MultipartBoundary--AkoDX1rkmywTS0Xh9UBRgVr1gZDEaPqW5Meyh8HAxY----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://wiki.creativecommons.org/load.php?debug=false&lang=en&modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles&only=styles&skin=vector
+
+@charset "utf-8";
+
+@media print {
+  .noprint, .catlinks, .magnify, .mw-cite-backlink, .mw-jump, .mw-editsection, .mw-editsection-like, .mw-hidden-catlinks, .mw-indicators, .mw-redirectedfrom, .patrollink, .usermessage, #column-one, #footer-places, #jump-to-nav, #mw-navigation, #siteNotice, #f-poweredbyico, #f-copyrightico, li#about, li#disclaimer, li#mobileview, li#privacy { display: none; }
+  body { background: rgb(255, 255, 255); color: rgb(0, 0, 0); margin: 0px; padding: 0px; }
+  a { background: none !important; padding: 0px !important; }
+  a, a.external, a.new, a.stub { color: inherit !important; text-decoration: inherit !important; }
+  .mw-body-content a.external.text::after, .mw-body-content a.external.autonumber::after { content: " (" attr(href) ")"; word-break: break-all; overflow-wrap: break-word; }
+  .mw-body-content a.external.text[href^="//"]::after, .mw-body-content a.external.autonumber[href^="//"]::after { content: " (https:" attr(href) ")"; }
+  dt { font-weight: bold; }
+  h1, h2, h3, h4, h5, h6 { font-weight: bold; break-after: avoid; break-before: avoid; }
+  p { margin: 1em 0px; line-height: 1.2; orphans: 3; widows: 3; }
+  img, figure, .wikitable, .thumb { break-inside: avoid; }
+  img { border: 0px; vertical-align: middle; }
+  pre, .mw-code { background: rgb(255, 255, 255); color: rgb(0, 0, 0); border: 1pt dashed rgb(0, 0, 0); padding: 1em 0px; font-size: 8pt; white-space: pre; overflow-wrap: break-word; overflow: auto; }
+  sup, sub { line-height: 1; }
+  ul { list-style-type: square; }
+  #globalWrapper { width: 100% !important; min-width: 0px !important; }
+  .mw-body { background: rgb(255, 255, 255); color: rgb(0, 0, 0); direction: ltr; border: 0px !important; padding: 0px !important; margin: 0px !important; }
+  #column-content { margin: 0px !important; }
+  #column-content .mw-body { padding: 1em; margin: 0px !important; }
+  #toc, .toc { background-color: rgb(249, 249, 249); border: 1pt solid rgb(170, 170, 170); padding: 5px; display: table; }
+  .tocnumber, .toctext { display: table-cell; }
+  .tocnumber { padding-left: 0px; padding-right: 0.5em; }
+  .mw-content-ltr .tocnumber { padding-left: 0px; padding-right: 0.5em; }
+  .mw-content-rtl .tocnumber { padding-left: 0.5em; padding-right: 0px; }
+  table.floatright, div.floatright, div.tright { float: right; clear: right; position: relative; }
+  table.floatleft, div.floatleft, div.tleft { float: left; clear: left; position: relative; }
+  div.tleft { margin: 0.5em 1.4em 1.3em 0px; }
+  div.tright { margin: 0.5em 0px 1.3em 1.4em; }
+  table.floatright, div.floatright { margin: 0px 0px 0.5em 0.5em; border: 0px; }
+  table.floatleft, div.floatleft { margin: 0px 0.5em 0.5em 0px; border: 0px; }
+  div.floatleft p, div.floatright p { font-style: italic; }
+  .center { text-align: center; }
+  div.thumb { background-color: transparent; width: auto; }
+  div.thumb a { border-bottom: 0px; }
+  div.thumbinner { background-color: rgb(255, 255, 255); border: 0px; border-radius: 2px; padding: 5px; font-size: 10pt; color: rgb(102, 102, 102); text-align: center; overflow: hidden; min-width: 100px; }
+  html .thumbcaption { text-align: left; line-height: 1.4; padding: 3px; }
+  img.thumbborder { border: 1pt solid rgb(221, 221, 221); }
+  table.wikitable, .mw_metadata { background: rgb(255, 255, 255); margin: 1em 0px; border: 1pt solid rgb(170, 170, 170); border-collapse: collapse; font-size: 10pt; }
+  table.wikitable > caption, .mw_metadata caption { padding: 5px; font-size: 10pt; }
+  table.wikitable > tr > th, table.wikitable > tr > td, table.wikitable > * > tr > th, table.wikitable > * > tr > td, .mw_metadata th, .mw_metadata td { border: 1pt solid rgb(170, 170, 170); padding: 0.4em 0.6em; background: rgb(255, 255, 255) !important; color: rgb(0, 0, 0) !important; }
+  table.wikitable > tr > th, table.wikitable > * > tr > th, .mw_metadata th { text-align: center; }
+  table.listing, table.listing td { border: 1pt solid rgb(0, 0, 0); border-collapse: collapse; }
+  .catlinks ul { display: inline; padding: 0px; list-style: none none; }
+  .catlinks li { display: inline-block; line-height: 1.15; margin: 0.1em 0px; border-left: 1pt solid rgb(170, 170, 170); padding: 0px 0.4em; }
+  .catlinks li:first-child { border-left: 0px; padding-left: 0.2em; }
+  .printfooter { padding: 1em 0px; }
+  #footer { background: rgb(255, 255, 255); color: rgb(0, 0, 0); margin-top: 1em; border-top: 1pt solid rgb(170, 170, 170); padding-top: 5px; direction: ltr; }
+}
+
+@media screen {
+  .mw-content-ltr { direction: ltr; }
+  .mw-content-rtl { direction: rtl; }
+  .sitedir-ltr textarea, .sitedir-ltr input { direction: ltr; }
+  .sitedir-rtl textarea, .sitedir-rtl input { direction: rtl; }
+  .mw-userlink { unicode-bidi: embed; }
+  mark { background-color: rgb(255, 255, 0); color: rgb(0, 0, 0); }
+  wbr { display: inline-block; }
+  input[type="submit"], input[type="button"], input[type="reset"], input[type="file"] { direction: ltr; }
+  textarea[dir="ltr"], input[dir="ltr"] { direction: ltr; }
+  textarea[dir="rtl"], input[dir="rtl"] { direction: rtl; }
+  abbr[title], .explain[title] { border-bottom: 1px dotted; cursor: help; }
+  @supports ( text-decoration:underline dotted ) {
+  abbr[title], .explain[title] { border-bottom: 0px; text-decoration: underline dotted; }
+}
+  span.comment { font-style: italic; unicode-bidi: isolate; }
+  #editform, #toolbar, #wpTextbox1 { clear: both; }
+  #toolbar { height: 22px; }
+  .mw-editfont-default:not(textarea) { font-family: monospace; }
+  .mw-editfont-monospace { font-family: monospace; }
+  .mw-editfont-sans-serif { font-family: sans-serif; }
+  .mw-editfont-serif { font-family: serif; }
+  .mw-underline-always a { text-decoration: underline; }
+  .mw-underline-never a { text-decoration: none; }
+  li span.deleted, span.history-deleted { text-decoration: line-through; color: rgb(114, 119, 125); font-style: italic; }
+  .not-patrolled { background-color: rgb(255, 255, 170); }
+  .unpatrolled { font-weight: bold; color: rgb(221, 51, 51); }
+  div.patrollink { font-size: 75%; text-align: right; }
+  td.mw-label { text-align: right; vertical-align: middle; }
+  td.mw-input { text-align: left; }
+  td.mw-submit { text-align: left; white-space: nowrap; }
+  .mw-input-with-label { white-space: nowrap; display: inline-block; }
+  .mw-content-ltr .thumbcaption { text-align: left; }
+  .mw-content-ltr .magnify { float: right; }
+  .mw-content-rtl .thumbcaption { text-align: right; }
+  .mw-content-rtl .magnify { float: left; }
+  #catlinks { text-align: left; }
+  .catlinks ul { display: inline; margin: 0px; padding: 0px; list-style: none none; }
+  .catlinks li { display: inline-block; line-height: 1.25em; border-left: 1px solid rgb(162, 169, 177); margin: 0.125em 0px; padding: 0px 0.5em; zoom: 1; }
+  .catlinks li:first-child { padding-left: 0.25em; border-left: 0px; }
+  .catlinks li a.mw-redirect { font-style: italic; }
+  .mw-hidden-cats-hidden { display: none; }
+  .catlinks-allhidden { display: none; }
+  p.mw-protect-editreasons, p.mw-filedelete-editreasons, p.mw-delete-editreasons { font-size: 90%; text-align: right; }
+  .autocomment { color: rgb(114, 119, 125); }
+  .newpage, .minoredit, .botedit { font-weight: bold; }
+  div.mw-warning-with-logexcerpt { padding: 3px; margin-bottom: 3px; border: 2px solid rgb(42, 75, 141); clear: both; }
+  div.mw-warning-with-logexcerpt ul li { font-size: 90%; }
+  span.mw-revdelundel-link, strong.mw-revdelundel-link { font-size: 90%; }
+  span.mw-revdelundel-hidden, input.mw-revdelundel-hidden { visibility: hidden; }
+  td.mw-revdel-checkbox, th.mw-revdel-checkbox { padding-right: 10px; text-align: center; }
+  a.new { color: rgb(186, 0, 0); }
+  a.mw-selflink { color: inherit; font-weight: bold; text-decoration: inherit; }
+  a.mw-selflink:hover { cursor: inherit; text-decoration: inherit; }
+  a.mw-selflink:active, a.mw-selflink:visited { color: inherit; }
+  .plainlinks a.external { background: none !important; padding: 0px !important; }
+  .rtl a.external.free, .rtl a.external.autonumber { direction: ltr; unicode-bidi: embed; }
+  table.wikitable { background-color: rgb(248, 249, 250); color: rgb(34, 34, 34); margin: 1em 0px; border: 1px solid rgb(162, 169, 177); border-collapse: collapse; }
+  table.wikitable > tr > th, table.wikitable > tr > td, table.wikitable > * > tr > th, table.wikitable > * > tr > td { border: 1px solid rgb(162, 169, 177); padding: 0.2em 0.4em; }
+  table.wikitable > tr > th, table.wikitable > * > tr > th { background-color: rgb(234, 236, 240); text-align: center; }
+  table.wikitable > caption { font-weight: bold; }
+  .error, .warning, .success { font-size: larger; }
+  .error { color: rgb(221, 51, 51); }
+  .warning { color: rgb(112, 80, 0); }
+  .success { color: rgb(0, 144, 0); }
+  .errorbox, .warningbox, .successbox { border: 1px solid; padding: 0.5em 1em; margin-bottom: 1em; display: inline-block; zoom: 1; }
+  .errorbox h2, .warningbox h2, .successbox h2 { font-size: 1em; color: inherit; font-weight: bold; display: inline; margin: 0px 0.5em 0px 0px; border: 0px; }
+  .errorbox { color: rgb(221, 51, 51); border-color: rgb(250, 197, 197); background-color: rgb(250, 227, 227); }
+  .warningbox { color: rgb(112, 80, 0); border-color: rgb(253, 226, 155); background-color: rgb(253, 241, 209); }
+  .successbox { color: rgb(0, 128, 0); border-color: rgb(183, 253, 181); background-color: rgb(225, 253, 223); }
+  .mw-infobox { border: 2px solid rgb(255, 127, 0); margin: 0.5em; clear: left; overflow: hidden; }
+  .mw-infobox-left { margin: 7px; float: left; width: 35px; }
+  .mw-infobox-right { margin: 0.5em 0.5em 0.5em 49px; }
+  .previewnote { color: rgb(221, 51, 51); margin-bottom: 1em; }
+  .previewnote p { text-indent: 3em; margin: 0.8em 0px; }
+  .visualClear { clear: both; }
+  .mw-datatable { border-collapse: collapse; }
+  .mw-datatable, .mw-datatable td, .mw-datatable th { border: 1px solid rgb(162, 169, 177); padding: 0px 0.15em; }
+  .mw-datatable th { background-color: rgb(221, 221, 255); }
+  .mw-datatable td { background-color: rgb(255, 255, 255); }
+  .mw-datatable tr:hover td { background-color: rgb(234, 243, 255); }
+  .mw-content-ltr ul, .mw-content-rtl .mw-content-ltr ul { margin: 0.3em 0px 0px 1.6em; padding: 0px; }
+  .mw-content-rtl ul, .mw-content-ltr .mw-content-rtl ul { margin: 0.3em 1.6em 0px 0px; padding: 0px; }
+  .mw-content-ltr ol, .mw-content-rtl .mw-content-ltr ol { margin: 0.3em 0px 0px 3.2em; padding: 0px; }
+  .mw-content-rtl ol, .mw-content-ltr .mw-content-rtl ol { margin: 0.3em 3.2em 0px 0px; padding: 0px; }
+  .mw-content-ltr dd, .mw-content-rtl .mw-content-ltr dd { margin-left: 1.6em; margin-right: 0px; }
+  .mw-content-rtl dd, .mw-content-ltr .mw-content-rtl dd { margin-right: 1.6em; margin-left: 0px; }
+  .mw-ajax-loader { background-image: url("/resources/src/mediawiki.legacy/images/ajax-loader.gif?57f34"); background-position: center center; background-repeat: no-repeat; padding: 16px; position: relative; top: -16px; }
+  .mw-small-spinner { margin-right: 0.6em; background-image: url("/resources/src/mediawiki.legacy/images/spinner.gif?ca65b"); background-position: center center; background-repeat: no-repeat; padding: 10px !important; }
+  h1:lang(anp), h1:lang(as), h1:lang(bh), h1:lang(bho), h1:lang(bn), h1:lang(gu), h1:lang(hi), h1:lang(kn), h1:lang(ks), h1:lang(ml), h1:lang(mr), h1:lang(my), h1:lang(mai), h1:lang(ne), h1:lang(new), h1:lang(or), h1:lang(pa), h1:lang(pi), h1:lang(sa), h1:lang(ta), h1:lang(te) { line-height: 1.6em !important; }
+  h2:lang(anp), h3:lang(anp), h4:lang(anp), h5:lang(anp), h6:lang(anp), h2:lang(as), h3:lang(as), h4:lang(as), h5:lang(as), h6:lang(as), h2:lang(bho), h3:lang(bho), h4:lang(bho), h5:lang(bho), h6:lang(bho), h2:lang(bh), h3:lang(bh), h4:lang(bh), h5:lang(bh), h6:lang(bh), h2:lang(bn), h3:lang(bn), h4:lang(bn), h5:lang(bn), h6:lang(bn), h2:lang(gu), h3:lang(gu), h4:lang(gu), h5:lang(gu), h6:lang(gu), h2:lang(hi), h3:lang(hi), h4:lang(hi), h5:lang(hi), h6:lang(hi), h2:lang(kn), h3:lang(kn), h4:lang(kn), h5:lang(kn), h6:lang(kn), h2:lang(ks), h3:lang(ks), h4:lang(ks), h5:lang(ks), h6:lang(ks), h2:lang(ml), h3:lang(ml), h4:lang(ml), h5:lang(ml), h6:lang(ml), h2:lang(mr), h3:lang(mr), h4:lang(mr), h5:lang(mr), h6:lang(mr), h2:lang(my), h3:lang(my), h4:lang(my), h5:lang(my), h6:lang(my), h2:lang(mai), h3:lang(mai), h4:lang(mai), h5:lang(mai), h6:lang(mai), h2:lang(ne), h3:lang(ne), h4:lang(ne), h5:lang(ne), h6:lang(ne), h2:lang(new), h3:lang(new), h4:lang(new), h5:lang(new), h6:lang(new), h2:lang(or), h3:lang(or), h4:lang(or), h5:lang(or), h6:lang(or), h2:lang(pa), h3:lang(pa), h4:lang(pa), h5:lang(pa), h6:lang(pa), h2:lang(pi), h3:lang(pi), h4:lang(pi), h5:lang(pi), h6:lang(pi), h2:lang(sa), h3:lang(sa), h4:lang(sa), h5:lang(sa), h6:lang(sa), h2:lang(ta), h3:lang(ta), h4:lang(ta), h5:lang(ta), h6:lang(ta), h2:lang(te), h3:lang(te), h4:lang(te), h5:lang(te), h6:lang(te) { line-height: 1.2em; }
+  ol:lang(azb) li, ol:lang(bcc) li, ol:lang(bgn) li, ol:lang(bqi) li, ol:lang(fa) li, ol:lang(glk) li, ol:lang(kk-arab) li, ol:lang(lrc) li, ol:lang(luz) li, ol:lang(mzn) li { list-style-type: persian; }
+  ol:lang(ckb) li, ol:lang(sdh) li { list-style-type: arabic-indic; }
+  ol:lang(hi) li, ol:lang(mai) li, ol:lang(mr) li, ol:lang(ne) li { list-style-type: devanagari; }
+  ol:lang(as) li, ol:lang(bn) li { list-style-type: bengali; }
+  ol:lang(or) li { list-style-type: oriya; }
+  #toc ul, .toc ul { margin: 0.3em 0px; }
+  .mw-content-ltr .toc ul, .mw-content-ltr #toc ul, .mw-content-rtl .mw-content-ltr .toc ul, .mw-content-rtl .mw-content-ltr #toc ul { text-align: left; }
+  .mw-content-rtl .toc ul, .mw-content-rtl #toc ul, .mw-content-ltr .mw-content-rtl .toc ul, .mw-content-ltr .mw-content-rtl #toc ul { text-align: right; }
+  .mw-content-ltr .toc ul ul, .mw-content-ltr #toc ul ul, .mw-content-rtl .mw-content-ltr .toc ul ul, .mw-content-rtl .mw-content-ltr #toc ul ul { margin: 0px 0px 0px 2em; }
+  .mw-content-rtl .toc ul ul, .mw-content-rtl #toc ul ul, .mw-content-ltr .mw-content-rtl .toc ul ul, .mw-content-ltr .mw-content-rtl #toc ul ul { margin: 0px 2em 0px 0px; }
+  #toc #toctitle, .toc #toctitle, #toc .toctitle, .toc .toctitle { direction: ltr; }
+  #mw-clearyourcache, #mw-sitecsspreview, #mw-sitejspreview, #mw-usercsspreview, #mw-userjspreview { direction: ltr; unicode-bidi: embed; }
+  #mw-revision-info, #mw-revision-info-current, #mw-revision-nav { direction: ltr; }
+  div.tright, div.floatright, table.floatright { clear: right; float: right; }
+  div.tleft, div.floatleft, table.floatleft { float: left; clear: left; }
+  div.floatright, table.floatright, div.floatleft, table.floatleft { position: relative; }
+  #mw-credits a { unicode-bidi: embed; }
+  .mw-jump, #jump-to-nav { overflow: hidden; height: 0px; zoom: 1; }
+  .printfooter { display: none; }
+  .xdebug-error { position: absolute; z-index: 99; }
+  .mw-editsection, #jump-to-nav { user-select: none; }
+  .mw-editsection, .mw-editsection-like { font-size: small; font-weight: normal; margin-left: 1em; vertical-align: baseline; line-height: 1em; display: inline-block; }
+  .mw-content-ltr .mw-editsection, .mw-content-rtl .mw-content-ltr .mw-editsection { margin-left: 1em; }
+  .mw-content-rtl .mw-editsection, .mw-content-ltr .mw-content-rtl .mw-editsection { margin-right: 1em; }
+  sup, sub { line-height: 1; }
+}
+
+.mw-headline-anchor { display: none; }
+
+@media screen {
+  a { text-decoration: none; color: rgb(6, 69, 173); background: none; }
+  a:not([href]) { cursor: pointer; }
+  a:visited { color: rgb(11, 0, 128); }
+  a:active { color: rgb(250, 167, 0); }
+  a:hover, a:focus { text-decoration: underline; }
+  a:lang(ar), a:lang(kk-arab), a:lang(mzn), a:lang(ps), a:lang(ur) { text-decoration: none; }
+  a.stub { color: rgb(119, 34, 51); }
+  a.new, #p-personal a.new { color: rgb(186, 0, 0); }
+  a.new:visited, #p-personal a.new:visited { color: rgb(165, 88, 88); }
+  .mw-body-content a.extiw, .mw-body-content a.extiw:active { color: rgb(51, 102, 187); }
+  .mw-body-content a.extiw:visited { color: rgb(102, 51, 102); }
+  .mw-body-content a.extiw:active { color: rgb(187, 102, 51); }
+  .mw-body-content a.external { color: rgb(51, 102, 187); }
+  .mw-body-content a.external:visited { color: rgb(102, 51, 102); }
+  .mw-body-content a.external:active { color: rgb(187, 102, 51); }
+  .mw-body-content a.external.free { overflow-wrap: break-word; }
+  img { border: 0px; vertical-align: middle; }
+  hr { height: 1px; color: rgb(162, 169, 177); background-color: rgb(162, 169, 177); border: 0px; margin: 0.2em 0px; }
+  h1, h2, h3, h4, h5, h6 { color: rgb(0, 0, 0); background: none; font-weight: normal; margin: 0px; overflow: hidden; padding-top: 0.5em; padding-bottom: 0.17em; border-bottom: 1px solid rgb(162, 169, 177); }
+  h1 { font-size: 188%; }
+  h2 { font-size: 150%; }
+  h3, h4, h5, h6 { border-bottom: 0px; font-weight: bold; }
+  h3 { font-size: 128%; }
+  h4 { font-size: 116%; }
+  h5 { font-size: 108%; }
+  h6 { font-size: 100%; }
+  h1, h2 { margin-bottom: 0.6em; }
+  h3, h4, h5 { margin-bottom: 0.3em; }
+  p { margin: 0.4em 0px 0.5em; }
+  p img { margin: 0px; }
+  ul { list-style-type: square; margin: 0.3em 0px 0px 1.6em; padding: 0px; }
+  ol { margin: 0.3em 0px 0px 3.2em; padding: 0px; list-style-image: none; }
+  li { margin-bottom: 0.1em; }
+  dt { font-weight: bold; margin-bottom: 0.1em; }
+  dl { margin-top: 0.2em; margin-bottom: 0.5em; }
+  dd { margin-left: 1.6em; margin-bottom: 0.1em; }
+  pre, code, tt, kbd, samp, .mw-code { font-family: monospace, Courier; }
+  code { color: rgb(0, 0, 0); background-color: rgb(248, 249, 250); border: 1px solid rgb(234, 236, 240); border-radius: 2px; padding: 1px 4px; }
+  pre, .mw-code { color: rgb(0, 0, 0); background-color: rgb(248, 249, 250); border: 1px solid rgb(234, 236, 240); padding: 1em; white-space: pre-wrap; }
+  table { font-size: 100%; }
+  fieldset { border: 1px solid rgb(42, 75, 141); margin: 1em 0px; padding: 0px 1em 1em; }
+  fieldset.nested { margin: 0px 0px 0.5em; padding: 0px 0.5em 0.5em; }
+  legend { padding: 0.5em; font-size: 95%; }
+  form { border: 0px; margin: 0px; }
+  textarea { width: 100%; padding: 0.1em; display: block; box-sizing: border-box; }
+  .center { width: 100%; text-align: center; }
+  .center * { margin-left: auto; margin-right: auto; }
+  .small { font-size: 94%; }
+  table.small { font-size: 100%; }
+  #toc, .toc, .mw-warning, .toccolours { border: 1px solid rgb(162, 169, 177); background-color: rgb(248, 249, 250); padding: 5px; font-size: 95%; }
+  #toc, .toc { display: table; zoom: 1; padding: 7px; }
+  table#toc, table.toc { border-collapse: collapse; }
+  table#toc td, table.toc td { padding: 0px; }
+  #toc h2, .toc h2 { display: inline; border: 0px; padding: 0px; font-size: 100%; font-weight: bold; }
+  #toc #toctitle, .toc #toctitle, #toc .toctitle, .toc .toctitle { text-align: center; }
+  #toc ul, .toc ul { list-style-type: none; list-style-image: none; margin-left: 0px; padding: 0px; text-align: left; }
+  #toc ul ul, .toc ul ul { margin: 0px 0px 0px 2em; }
+  .tocnumber, .toctext { display: table-cell; text-decoration: inherit; }
+  .tocnumber { padding-left: 0px; padding-right: 0.5em; color: rgb(34, 34, 34); }
+  .mw-content-ltr .tocnumber { padding-left: 0px; padding-right: 0.5em; }
+  .mw-content-rtl .tocnumber { padding-left: 0.5em; padding-right: 0px; }
+  .mw-warning { margin-left: 50px; margin-right: 50px; text-align: center; }
+  div.floatright, table.floatright { margin: 0px 0px 0.5em 0.5em; }
+  div.floatright p { font-style: italic; }
+  div.floatleft, table.floatleft { margin: 0px 0.5em 0.5em 0px; }
+  div.floatleft p { font-style: italic; }
+  div.thumb { margin-bottom: 0.5em; width: auto; background-color: transparent; }
+  div.thumbinner { border: 1px solid rgb(200, 204, 209); padding: 3px; background-color: rgb(248, 249, 250); font-size: 94%; text-align: center; overflow: hidden; }
+  html .thumbimage { background-color: rgb(255, 255, 255); border: 1px solid rgb(200, 204, 209); }
+  html .thumbcaption { border: 0px; line-height: 1.4em; padding: 3px; font-size: 94%; text-align: left; }
+  div.magnify { float: right; margin-left: 3px; }
+  div.magnify a { display: block; text-indent: 15px; white-space: nowrap; overflow: hidden; width: 15px; height: 11px; background-image: linear-gradient(transparent, transparent), url("data:image/svg+xml,%3C%3Fxml version=%221.0%22 encoding=%22UTF-8%22 standalone=%22no%22%3F%3E%0A%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 11 15%22 width=%2215%22 height=%2211%22%3E%0A %3Cg id=%22magnify-clip%22 fill=%22%23fff%22 stroke=%22%23000%22%3E%0A %3Cpath id=%22bigbox%22 d=%22M1.509 1.865h10.99v7.919h-10.99z%22/%3E%0A %3Cpath id=%22smallbox%22 d=%22M-1.499 6.868h5.943v4.904h-5.943z%22/%3E%0A %3C/g%3E%0A%3C/svg%3E%0A"); user-select: none; }
+  img.thumbborder { border: 1px solid rgb(234, 236, 240); }
+  .mw-content-ltr .thumbcaption { text-align: left; }
+  .mw-content-ltr .magnify { float: right; margin-left: 3px; margin-right: 0px; }
+  .mw-content-ltr div.magnify a { background-image: linear-gradient(transparent, transparent), url("data:image/svg+xml,%3C%3Fxml version=%221.0%22 encoding=%22UTF-8%22 standalone=%22no%22%3F%3E%0A%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 11 15%22 width=%2215%22 height=%2211%22%3E%0A %3Cg id=%22magnify-clip%22 fill=%22%23fff%22 stroke=%22%23000%22%3E%0A %3Cpath id=%22bigbox%22 d=%22M1.509 1.865h10.99v7.919h-10.99z%22/%3E%0A %3Cpath id=%22smallbox%22 d=%22M-1.499 6.868h5.943v4.904h-5.943z%22/%3E%0A %3C/g%3E%0A%3C/svg%3E%0A"); }
+  .mw-content-rtl .thumbcaption { text-align: right; }
+  .mw-content-rtl .magnify { float: left; margin-left: 0px; margin-right: 3px; }
+  .mw-content-rtl div.magnify a { background-image: linear-gradient(transparent, transparent), url("data:image/svg+xml,%3C%3Fxml version=%221.0%22 encoding=%22UTF-8%22 standalone=%22no%22%3F%3E%0A%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 11 15%22 width=%2215%22 height=%2211%22%3E%0A %3Cg id=%22magnify-clip%22 fill=%22%23fff%22 stroke=%22%23000%22%3E%0A %3Cpath id=%22bigbox%22 d=%22M9.491 1.865h-10.99v7.919h10.99z%22/%3E%0A %3Cpath id=%22smallbox%22 d=%22M12.499 6.868h-5.943v4.904h5.943z%22/%3E%0A %3C/g%3E%0A%3C/svg%3E%0A"); }
+  div.tright { margin: 0.5em 0px 1.3em 1.4em; }
+  div.tleft { margin: 0.5em 1.4em 1.3em 0px; }
+  body.mw-hide-empty-elt .mw-empty-elt { display: none; }
+  .catlinks { border: 1px solid rgb(162, 169, 177); background-color: rgb(248, 249, 250); padding: 5px; margin-top: 1em; clear: both; }
+  textarea { border: 1px solid rgb(162, 169, 177); }
+  .editOptions { background-color: rgb(234, 236, 240); border-width: 0px 1px 1px; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-right-color: rgb(200, 204, 209); border-bottom-color: rgb(200, 204, 209); border-left-color: rgb(200, 204, 209); border-image: initial; border-top-style: initial; border-top-color: initial; padding: 1em 1em 1.5em; margin-bottom: 2em; }
+  .usermessage { background-color: rgb(255, 206, 123); border: 1px solid rgb(255, 165, 0); color: rgb(0, 0, 0); font-weight: bold; margin: 2em 0px 1em; padding: 0.5em 1em; vertical-align: middle; }
+  #siteNotice { position: relative; text-align: center; margin: 0px; }
+  #localNotice { margin-bottom: 0.9em; }
+  .firstHeading { margin-bottom: 0.1em; line-height: 1.2em; padding-bottom: 0px; }
+  #siteSub { display: none; }
+  #jump-to-nav { margin-top: -1.4em; margin-bottom: 1.4em; }
+  #contentSub, #contentSub2 { font-size: 84%; line-height: 1.2em; margin: 0px 0px 1.4em 1em; color: rgb(84, 89, 93); width: auto; }
+  span.subpages { display: block; }
+}
+
+.mw-wiki-logo { background-image: url("/resources/assets/cc.png?50312"); }
+
+@media screen {
+  html { font-size: 100%; }
+  html, body { height: 100%; margin: 0px; padding: 0px; font-family: sans-serif; }
+  body { background-color: rgb(246, 246, 246); }
+  .mw-body, .parsoid-body { padding: 1em; background-color: rgb(255, 255, 255); color: rgb(34, 34, 34); direction: ltr; }
+  .mw-body { margin-left: 10em; border-width: 1px 0px 1px 1px; border-style: solid; border-color: rgb(167, 215, 249); border-image: initial; margin-top: -1px; }
+  .mw-body h1, .mw-body-content h1, .mw-body-content h2 { font-family: "Linux Libertine", Georgia, Times, serif; line-height: 1.3; margin-bottom: 0.25em; padding: 0px; }
+  .mw-body h1:lang(ja), .mw-body-content h1:lang(ja), .mw-body-content h2:lang(ja), .mw-body h1:lang(he), .mw-body-content h1:lang(he), .mw-body-content h2:lang(he), .mw-body h1:lang(ko), .mw-body-content h1:lang(ko), .mw-body-content h2:lang(ko) { font-family: sans-serif; }
+  .mw-body h1, .mw-body-content h1 { font-size: 1.8em; }
+  .mw-body .firstHeading { overflow: visible; }
+  .mw-body .mw-indicators { float: right; line-height: 1.6; font-size: 0.875em; position: relative; z-index: 1; }
+  .mw-body .mw-indicator { display: inline-block; zoom: 1; }
+  .mw-body-content { position: relative; line-height: 1.6; font-size: 0.875em; z-index: 0; }
+  .mw-body-content p { line-height: inherit; margin: 0.5em 0px; }
+  .mw-body-content h1 { margin-top: 1em; }
+  .mw-body-content h2 { font-size: 1.5em; margin-top: 1em; }
+  .mw-body-content h3, .mw-body-content h4, .mw-body-content h5, .mw-body-content h6 { line-height: 1.6; margin-top: 0.3em; margin-bottom: 0px; padding-bottom: 0px; }
+  .mw-body-content h3 { font-size: 1.2em; }
+  .mw-body-content h3, .mw-body-content h4 { font-weight: bold; }
+  .mw-body-content h4, .mw-body-content h5, .mw-body-content h6 { font-size: 100%; }
+  .mw-body-content #toc h2, .mw-body-content .toc h2 { font-size: 100%; font-family: sans-serif; }
+  .mw-editsection, .mw-editsection-like { font-family: sans-serif; }
+  div.emptyPortlet { display: none; }
+  ul { list-style-type: disc; list-style-image: url("data:image/svg+xml,%3C%3Fxml version=%221.0%22 encoding=%22UTF-8%22%3F%3E%0A%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 version=%221.1%22 width=%225%22 height=%2213%22%3E%0A%3Ccircle cx=%222.5%22 cy=%229.5%22 r=%222.5%22 fill=%22%2300528c%22/%3E%0A%3C/svg%3E%0A"); }
+  pre, .mw-code { line-height: 1.3em; }
+  #siteNotice { font-size: 0.8em; }
+  #p-personal { position: absolute; top: 0.33em; right: 0.75em; z-index: 100; }
+  #p-personal h3 { display: none; }
+  #p-personal ul { list-style-type: none; list-style-image: none; margin: 0px; padding-left: 10em; }
+  #p-personal li { line-height: 1.125em; float: left; margin-left: 0.75em; margin-top: 0.5em; font-size: 0.75em; white-space: nowrap; }
+  #pt-userpage, #pt-anonuserpage { background-position: left top; background-repeat: no-repeat; background-image: linear-gradient(transparent, transparent), url("data:image/svg+xml,%3C%3Fxml version=%221.0%22 encoding=%22utf-8%22%3F%3E%0A%3C%21DOCTYPE svg PUBLIC %22-//W3C//DTD SVG 1.1//EN%22 %22http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd%22%3E%0A%3Csvg version=%221.1%22 id=%22Layer_1%22 xmlns=%22http://www.w3.org/2000/svg%22 xmlns:xlink=%22http://www.w3.org/1999/xlink%22 x=%220px%22 y=%220px%22%0A%09width=%2212px%22 height=%2213.836px%22 viewBox=%220 0 12 13.836%22 enable-background=%22new 0 0 12 13.836%22 xml:space=%22preserve%22%3E%0A%3Cpath fill=%22%23777777%22 d=%22M1.938%2C6.656c-1.32%2C1.485-1.47%2C3.15-0.97%2C4.25c0.323%2C0.707%2C0.78%2C1.127%2C1.313%2C1.375%0A%09c0.496%2C0.229%2C1.074%2C0.273%2C1.658%2C0.282c0.023%2C0%2C0.04%2C0.03%2C0.062%2C0.03h4.187c0.61%2C0%2C1.225-0.125%2C1.75-0.405%0A%09c0.527-0.28%2C0.961-0.718%2C1.188-1.376c0.335-0.964%2C0.175-2.529-1.094-4.03C9.094%2C7.954%2C7.68%2C8.719%2C6.065%2C8.719%0A%09c-1.677%2C0-3.182-0.812-4.125-2.063H1.938z%22/%3E%0A%3Cpath fill=%22%23777777%22 d=%22M6.063%2C0c-1.89%2C0-3.595%2C1.674-3.594%2C3.563C2.467%2C5.45%2C4.173%2C7.155%2C6.06%2C7.155%0A%09c1.89%2C0%2C3.564-1.705%2C3.563-3.593C9.625%2C1.673%2C7.95%2C0%2C6.063%2C0L6.063%2C0z%22/%3E%0A%3C/svg%3E%0A"); padding-left: 15px !important; }
+  #pt-anonuserpage { color: rgb(112, 112, 112); }
+  #p-search { float: left; margin-right: 0.5em; margin-left: 0.5em; }
+  #p-search h3 { display: block; clip: rect(1px, 1px, 1px, 1px); width: 1px; height: 1px; margin: -1px; border: 0px; padding: 0px; overflow: hidden; position: absolute !important; }
+  #p-search form, #p-search input { margin: 0.4em 0px 0px; }
+  div#simpleSearch { display: block; width: 20vw; min-width: 5em; max-width: 20em; padding-right: 1.4em; height: 1.4em; margin-top: 0.65em; position: relative; min-height: 1px; border: 1px solid rgb(170, 170, 170); color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAAQCAIAAABY/YLgAAAAJUlEQVQIHQXBsQEAAAjDoND/73UWdnerhmHVsDQZJrNWVg3Dqge6bgMe6bejNAAAAABJRU5ErkJggg=="); background-position: left top; background-repeat: repeat-x; }
+  div#simpleSearch input { margin: 0px; padding: 0px; border: 0px; background-color: transparent; color: rgb(0, 0, 0); }
+  div#simpleSearch #searchInput { width: 100%; padding: 0.2em 0px 0.2em 0.2em; font-size: 13px; direction: ltr; appearance: textfield; }
+  div#simpleSearch #searchInput:focus { outline: 0px; }
+  div#simpleSearch #searchInput::-webkit-input-placeholder { color: rgb(114, 119, 125); opacity: 1; }
+  div#simpleSearch #searchInput::placeholder { color: rgb(114, 119, 125); opacity: 1; }
+  div#simpleSearch #searchInput.placeholder { color: rgb(114, 119, 125); opacity: 1; }
+  div#simpleSearch #searchInput::-webkit-search-decoration, div#simpleSearch #searchInput::-webkit-search-cancel-button, div#simpleSearch #searchInput::-webkit-search-results-button, div#simpleSearch #searchInput::-webkit-search-results-decoration { appearance: textfield; }
+  div#simpleSearch #searchButton, div#simpleSearch #mw-searchButton { position: absolute; top: 0px; right: 0px; width: 1.65em; height: 100%; cursor: pointer; text-indent: -99999px; line-height: 1; direction: ltr; white-space: nowrap; overflow: hidden; }
+  div#simpleSearch #searchButton { background-image: linear-gradient(transparent, transparent), url("data:image/svg+xml,%3C%3Fxml version=%221.0%22 encoding=%22UTF-8%22%3F%3E%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%2212%22 height=%2213%22%3E%3Cg stroke-width=%222%22 stroke=%22%236c6c6c%22 fill=%22none%22%3E%3Cpath d=%22M11.29 11.71l-4-4%22/%3E%3Ccircle cx=%225%22 cy=%225%22 r=%224%22/%3E%3C/g%3E%3C/svg%3E"); background-position: center center; background-repeat: no-repeat; }
+  div#simpleSearch #mw-searchButton { z-index: 1; }
+  div.vectorTabs h3 { display: none; }
+  div.vectorTabs { float: left; height: 2.5em; background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAAuCAIAAABmjeQ9AAAAQ0lEQVR4AWVOhQEAIAzC/X+xAXbXeoDFGA3A9yk1n4juBROcUegfarWjP3ojZvEzxs6j+nygmo+zzsk79nY+tOxdEhlf3UHVgUFrVwAAAABJRU5ErkJggg=="); background-position: left bottom; background-repeat: no-repeat; padding-left: 1px; }
+  div.vectorTabs ul { float: left; height: 100%; list-style-type: none; list-style-image: none; margin: 0px; padding: 0px; background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAAuCAIAAABmjeQ9AAAAQ0lEQVR4AWVOhQEAIAzC/X+xAXbXeoDFGA3A9yk1n4juBROcUegfarWjP3ojZvEzxs6j+nygmo+zzsk79nY+tOxdEhlf3UHVgUFrVwAAAABJRU5ErkJggg=="); background-position: right bottom; background-repeat: no-repeat; }
+  div.vectorTabs ul li { float: left; line-height: 1.125em; display: inline-block; height: 100%; margin: 0px; padding: 0px; background-color: rgb(243, 243, 243); background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAABkCAIAAADITs03AAAAO0lEQVR4AeSKhREAMQzDdN5/5uixuEKDpqgBjl2f78wd2DVj1+26/h///PfteVMN7zoGebcg1/Y/ZQQAlAUtQCujIJMAAAAASUVORK5CYII="); background-position: left bottom; background-repeat: repeat-x; white-space: nowrap; }
+  div.vectorTabs ul > li { display: block; }
+  div.vectorTabs li { }
+  div.vectorTabs li.new a, div.vectorTabs li.new a:visited { color: rgb(165, 88, 88); }
+  div.vectorTabs li.selected { background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAABkAQAAAABvV2fNAAAADElEQVR4AWNoGB4QAInlMgFKeRKBAAAAAElFTkSuQmCC"); }
+  div.vectorTabs li.selected a, div.vectorTabs li.selected a:visited { color: rgb(34, 34, 34); text-decoration: none; }
+  div.vectorTabs li.icon a { background-position: right bottom; background-repeat: no-repeat; }
+  div.vectorTabs li a { display: inline-block; height: 1.9em; padding-left: 0.5em; padding-right: 0.5em; color: rgb(6, 69, 173); cursor: pointer; font-size: 0.8em; }
+  div.vectorTabs li > a { display: block; }
+  div.vectorTabs span { display: inline-block; background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAAuCAIAAABmjeQ9AAAAQ0lEQVR4AWVOhQEAIAzC/X+xAXbXeoDFGA3A9yk1n4juBROcUegfarWjP3ojZvEzxs6j+nygmo+zzsk79nY+tOxdEhlf3UHVgUFrVwAAAABJRU5ErkJggg=="); background-position: right bottom; background-repeat: no-repeat; height: 100%; }
+  div.vectorTabs span a { display: inline-block; padding-top: 1.25em; }
+  div.vectorTabs span > a { float: left; display: block; }
+  div.vectorMenu { direction: ltr; float: left; cursor: pointer; position: relative; line-height: 1.125em; }
+  body.rtl div.vectorMenu { direction: rtl; }
+  div#mw-head div.vectorMenu h3 { float: left; background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAAuCAIAAABmjeQ9AAAAQ0lEQVR4AWVOhQEAIAzC/X+xAXbXeoDFGA3A9yk1n4juBROcUegfarWjP3ojZvEzxs6j+nygmo+zzsk79nY+tOxdEhlf3UHVgUFrVwAAAABJRU5ErkJggg=="); background-repeat: no-repeat; background-position: right bottom; font-size: 1em; height: 2.5em; padding-right: 1px; margin-right: -1px; }
+  div.vectorMenu h3 span { display: block; font-size: 0.8em; padding-left: 0.7em; padding-top: 1.25em; padding-right: 20px; font-weight: normal; color: rgb(68, 68, 68); background-image: linear-gradient(transparent, transparent), url("data:image/svg+xml,%3C%3Fxml version=%221.0%22 encoding=%22UTF-8%22%3F%3E%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%2222%22 height=%2216%22%3E%3Cpath d=%22M15.502 6.001l-5 5.001-5-5.001z%22 fill=%22%23797979%22/%3E%3C/svg%3E"); background-position: 100% 100%; background-repeat: no-repeat; }
+  div.vectorMenuFocus h3 span { background-image: linear-gradient(transparent, transparent), url("data:image/svg+xml,%3C%3Fxml version=%221.0%22 encoding=%22UTF-8%22%3F%3E%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%2222%22 height=%2216%22%3E%3Cpath d=%22M15.502 6.001l-5 5.001-5-5.001z%22 fill=%22%23929292%22/%3E%3C/svg%3E"); }
+  div.vectorMenu div.menu { min-width: 100%; position: absolute; top: 2.5em; left: -1px; background-color: rgb(255, 255, 255); border-width: 0px 1px 1px; border-style: solid; border-color: rgb(162, 169, 177); border-image: initial; clear: both; box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 1px 0px; text-align: left; display: none; z-index: 2; }
+  div.vectorMenu:hover div.menu, div.vectorMenu.menuForceShow div.menu { display: block; }
+  div.vectorMenu ul { list-style-type: none; list-style-image: none; padding: 0px; margin: 0px; text-align: left; }
+  div.vectorMenu li { padding: 0px; margin: 0px; text-align: left; line-height: 1em; }
+  div.vectorMenu li a { display: inline-block; padding: 0.5em; white-space: nowrap; color: rgb(6, 69, 173); cursor: pointer; font-size: 0.8em; }
+  div.vectorMenu li > a { display: block; }
+  div.vectorMenu li.selected a, div.vectorMenu li.selected a:visited { color: rgb(34, 34, 34); text-decoration: none; }
+  * html div.vectorMenu div.menu { display: block; position: static; border: 0px; }
+  * html div#mw-head div.vectorMenu h3 { display: none; }
+  * html div.vectorMenu li { float: left; line-height: 1.125em; border-right: 1px solid rgb(167, 215, 249); }
+  * html div.vectorMenu li a { padding-top: 1.25em; }
+  @-webkit-keyframes rotate { 
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+  @keyframes rotate { 
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+  #ca-unwatch.icon a, #ca-watch.icon a { margin: 0px; padding: 3.1em 0px 0px; display: block; width: 26px; height: 0px; overflow: hidden; background-position: 5px 60%; }
+  #ca-unwatch.icon a { background-image: linear-gradient(transparent, transparent), url("data:image/svg+xml,%3C%3Fxml version=%221.0%22 encoding=%22UTF-8%22%3F%3E%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 xmlns:xlink=%22http://www.w3.org/1999/xlink%22 width=%2216%22 height=%2216%22%3E%3Cdefs%3E%3ClinearGradient id=%22a%22%3E%3Cstop offset=%220%22 stop-color=%22%23c2edff%22/%3E%3Cstop offset=%22.5%22 stop-color=%22%2368bdff%22/%3E%3Cstop offset=%221%22 stop-color=%22%23fff%22/%3E%3C/linearGradient%3E%3ClinearGradient x1=%2213.47%22 y1=%2214.363%22 x2=%224.596%22 y2=%223.397%22 id=%22b%22 xlink:href=%22%23a%22 gradientUnits=%22userSpaceOnUse%22/%3E%3C/defs%3E%3Cpath d=%22M8.103 1.146l2.175 4.408 4.864.707-3.52 3.431.831 4.845-4.351-2.287-4.351 2.287.831-4.845-3.52-3.431 4.864-.707z%22 fill=%22url%28%23b%29%22 stroke=%22%237cb5d1%22 stroke-width=%220.9999199999999999%22/%3E%3C/svg%3E"); }
+  #ca-watch.icon a { background-image: linear-gradient(transparent, transparent), url("data:image/svg+xml,%3C%3Fxml version=%221.0%22 encoding=%22UTF-8%22%3F%3E%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%2216%22 height=%2216%22%3E%3Cpath d=%22M8.103 1.146l2.175 4.408 4.864.707-3.52 3.431.831 4.845-4.351-2.287-4.351 2.287.831-4.845-3.52-3.431 4.864-.707z%22 fill=%22%23fff%22 stroke=%22%237cb5d1%22 stroke-width=%220.9999199999999999%22/%3E%3C/svg%3E"); }
+  #ca-unwatch.icon a:hover, #ca-unwatch.icon a:focus { background-image: linear-gradient(transparent, transparent), url("data:image/svg+xml,%3C%3Fxml version=%221.0%22 encoding=%22UTF-8%22%3F%3E%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 xmlns:xlink=%22http://www.w3.org/1999/xlink%22 width=%2216%22 height=%2216%22%3E%3Cdefs%3E%3ClinearGradient id=%22a%22%3E%3Cstop offset=%220%22 stop-color=%22%23c2edff%22/%3E%3Cstop offset=%22.5%22 stop-color=%22%2368bdff%22/%3E%3Cstop offset=%221%22 stop-color=%22%23fff%22/%3E%3C/linearGradient%3E%3ClinearGradient x1=%2213.47%22 y1=%2214.363%22 x2=%224.596%22 y2=%223.397%22 id=%22b%22 xlink:href=%22%23a%22 gradientUnits=%22userSpaceOnUse%22/%3E%3C/defs%3E%3Cpath d=%22M8.103 1.146l2.175 4.408 4.864.707-3.52 3.431.831 4.845-4.351-2.287-4.351 2.287.831-4.845-3.52-3.431 4.864-.707z%22 fill=%22url%28%23b%29%22 stroke=%22%23c8b250%22 stroke-width=%220.9999199999999999%22/%3E%3C/svg%3E"); }
+  #ca-watch.icon a:hover, #ca-watch.icon a:focus { background-image: linear-gradient(transparent, transparent), url("data:image/svg+xml,%3C%3Fxml version=%221.0%22 encoding=%22UTF-8%22%3F%3E%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%2216%22 height=%2216%22%3E%3Cpath d=%22M8.103 1.146l2.175 4.408 4.864.707-3.52 3.431.831 4.845-4.351-2.287-4.351 2.287.831-4.845-3.52-3.431 4.864-.707z%22 fill=%22%23fff%22 stroke=%22%23c8b250%22 stroke-width=%220.9999199999999999%22/%3E%3C/svg%3E"); }
+  #ca-unwatch.icon a.loading, #ca-watch.icon a.loading { background-image: linear-gradient(transparent, transparent), url("data:image/svg+xml,%3C%3Fxml version=%221.0%22 encoding=%22UTF-8%22%3F%3E%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%2216%22 height=%2216%22%3E%3Cpath d=%22M8.103 1.146l2.175 4.408 4.864.707-3.52 3.431.831 4.845-4.351-2.287-4.351 2.287.831-4.845-3.52-3.431 4.864-.707z%22 fill=%22%23fff%22 stroke=%22%23d1d1d1%22 stroke-width=%220.9999199999999999%22/%3E%3C/svg%3E"); animation: 700ms linear 0s infinite normal none running rotate; outline: 0px; cursor: default; pointer-events: none; background-position: 50% 60%; transform-origin: 50% 57%; }
+  #ca-unwatch.icon a span, #ca-watch.icon a span { display: none; }
+  #mw-navigation h2 { position: absolute; top: -9999px; }
+  #mw-page-base { height: 5em; background-position: left bottom; background-repeat: repeat-x; background-image: linear-gradient(rgb(255, 255, 255) 50%, rgb(246, 246, 246) 100%); background-color: rgb(255, 255, 255); }
+  #mw-head-base { margin-top: -5em; margin-left: 10em; height: 5em; }
+  div#mw-head { position: absolute; top: 0px; right: 0px; width: 100%; }
+  div#mw-head h3 { margin: 0px; padding: 0px; }
+  #left-navigation { float: left; margin-left: 10em; margin-top: 2.5em; margin-bottom: -2.5em; display: inline; }
+  #right-navigation { float: right; margin-top: 2.5em; }
+  #p-logo { width: 10em; height: 160px; }
+  #p-logo a { display: block; width: 10em; height: 160px; background-repeat: no-repeat; background-position: center center; text-decoration: none; }
+  div#mw-panel { font-size: inherit; position: absolute; top: 0px; width: 10em; left: 0px; }
+  div#mw-panel div.portal { margin: 0px 0.6em 0px 0.7em; padding: 0.25em 0px; direction: ltr; background-position: left top; background-repeat: no-repeat; }
+  div#mw-panel div.portal h3 { font-size: 0.75em; color: rgb(68, 68, 68); font-weight: normal; margin: 0.5em 0px 0px 0.666667em; padding: 0.25em 0px; cursor: default; border: 0px; }
+  div#mw-panel div.portal div.body { margin-left: 0.5em; padding-top: 0px; background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIwAAAABCAAAAAAphRnkAAAAJ0lEQVQIW7XFsQEAIAyAMPD/b7uLWz8wS5youFW1UREfiIpH1Q2VBz7fGPS1dOGeAAAAAElFTkSuQmCC"); background-repeat: no-repeat; }
+  div#mw-panel div.portal div.body ul { list-style-type: none; list-style-image: none; margin: 0px; padding: 0.3em 0px 0px; }
+  div#mw-panel div.portal div.body ul li { line-height: 1.125em; margin: 0px; padding: 0.25em 0px; font-size: 0.75em; overflow-wrap: break-word; }
+  div#mw-panel div.portal div.body ul li a { color: rgb(6, 69, 173); }
+  div#mw-panel div.portal div.body ul li a:visited { color: rgb(11, 0, 128); }
+  div#mw-panel #p-logo + div.portal { background-image: none; margin-top: 1em; }
+  div#mw-panel #p-logo + div.portal h3 { display: none; }
+  div#mw-panel #p-logo + div.portal div.body { background-image: none; margin-left: 0.5em; }
+  div#footer { margin-left: 10em; margin-top: 0px; padding: 0.75em; direction: ltr; }
+  div#footer ul { list-style-type: none; list-style-image: none; margin: 0px; padding: 0px; }
+  div#footer ul li { margin: 0px; padding: 0.5em 0px; color: rgb(51, 51, 51); font-size: 0.7em; }
+  div#footer #footer-icons { float: right; }
+  div#footer #footer-icons li { float: left; margin-left: 0.5em; line-height: 2em; text-align: right; }
+  div#footer #footer-info li { line-height: 1.4em; }
+  div#footer #footer-places li { float: left; margin-right: 1em; line-height: 2em; }
+  body.ltr div#footer #footer-places { float: left; }
+  .mw-body-content .external { background-position: right center; background-repeat: no-repeat; background-image: linear-gradient(transparent, transparent), url("data:image/svg+xml,%3C%3Fxml version=%221.0%22 encoding=%22UTF-8%22 standalone=%22no%22%3F%3E%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%2212%22 height=%2212%22%3E%3Cpath fill=%22%23fff%22 stroke=%22%2306c%22 d=%22M1.5 4.518h5.982V10.5H1.5z%22/%3E%3Cpath d=%22M5.765 1H11v5.39L9.427 7.937l-1.31-1.31L5.393 9.35l-2.69-2.688 2.81-2.808L4.2 2.544z%22 fill=%22%2306f%22/%3E%3Cpath d=%22M9.995 2.004l.022 4.885L8.2 5.07 5.32 7.95 4.09 6.723l2.882-2.88-1.85-1.852z%22 fill=%22%23fff%22/%3E%3C/svg%3E"); padding-right: 13px; }
+}
+
+@media screen and (min-width: 982px) {
+  .mw-body { margin-left: 11em; padding: 1.25em 1.5em 1.5em; }
+  div#footer { margin-left: 11em; padding: 1.25em; }
+  #mw-panel { padding-left: 0.5em; }
+  #p-search { margin-right: 1em; }
+  #left-navigation { margin-left: 11em; }
+  #p-personal { right: 1em; }
+  #mw-head-base { margin-left: 11em; }
+}
+------MultipartBoundary--AkoDX1rkmywTS0Xh9UBRgVr1gZDEaPqW5Meyh8HAxY----
+Content-Type: image/png
+Content-Transfer-Encoding: binary
+Content-Location: https://wiki.creativecommons.org/resources/assets/cc.png?50312
+
+‰PNG
+
+   IHDR   ‡   ‡   <çJ
+   bKGD ÿ ÿ ÿ ½§“   	pHYs  ×  ×B(›x   tIMEß¿ÓÚ]  ·IDATxÚí]{TUÕŸÿpy]à‚€¢ (Ê+@|åˆ#Hiš¸tL™¤b£¶Ò”Ÿ¥?Kp*+ˆ9æR§’~VfK“ÉWˆ86¥ü~ÉKâãy/pA„ïüq¯»ÏÙç —óYk/]z÷9Ÿ½Ïçì½ÏŞß‡Ì  èÀ@ .; – œŒu@µñï: UÆRà€ãŸ¹ÆÒh®gaFmq
+`”±à-ñ=ï(ğ€óÆò+ ½"…Ê(‚H Ï…aÕ	x5 È à' ÿ²‰ùY ÿàºq
+èì¥@"€03©;<¬PĞEÑVÉ°ÆØ"1À— îtqQ<Zšü  \yÄìxÀI3D[%Ã¸nRĞFrÔËY ã	<¾ v‡[êæå8€AŠ$›Oq jQ<Tî ØÀ¾»
+#@–"„'–Âî¶± ğ¶˜Vö Ğ˜û©€dã¦¬pww‡ŸŸ|}}áçç‡Ş½{C£Ñ@­VÃÉÉ	ÖÖÖ "TWW£¾¾z½555¨®®FAA
+
+
+påÊ”––‚ˆänB>€( ÿcâp€»Bˆˆˆ@DDÂÃÃ †ß‹×ĞĞ€üü|deeáôéÓ8uê®^½*G6×hÛÍi*Y"å4biiI‘‘‘´{÷nÊÉÉ¡@QQíİ»—¦OŸN¶¶¶RO3_™ÃbUÃ¹‚$JIIItëÖ-êL¨¬¬¤]»vÑ3Ï<CR	äWã@—„-€¯ywŠ­­--Y²¤ÃFVS\\i4)R`pW†À	¡ÑhhåÊ•tıúuêŠ¨¨¨ øøxruuå- c»Š0œ œáÕxZ³f•——“9@§ÓÑÇLNNN<R`rWF&¯F7._¾Læˆë×¯Óœ9sx
+¤ÀŒÎ*{ §x4ÔÕÕ•víÚE---dî8yò$óÜvŸÚÙ„¡6‰nàÌ™3©²²’ºhÍš5¤R©xD`Bgú\=Ècm‘””Dİ?şø#õêÕ‹‡@jüSgÇV±ñòò¢ŒŒR@TZZJcÆŒá!›Şúş‰xCl#{î9úóÏ?U<€¦¦&Š‹‹ã!¿ãÿıqdEDÚvN:•ôz½¢†6°}ûvëïå>`õ pCé¨¨(jjjRĞRRRÈÚÚZ¬@Ş’KV ~C6&&¦[|¦ò\¨:88ˆG€1rˆ#^Œ0Şzë-åiÀÙ³gÅÏI½şøg£
+ŒVFøé§ŸÈÆÆFŒ@’¥ÜèÊJlÊ”)ÊƒRSSÅ.RÿE
+q| Æî¢¶¶Vy²œ°cÇ±Çü&™ÅYš(Œ!Æ!É’UQ¾¾¾8yò$zôè|0räHÔÕÕáìÙ³Bª÷0Î?ñâ#è@ÍÚÚšÎ;§¼êm”‰ØImÌC3…aŸ|ò‰ò%Şjqsˆ‡©ß!7ñÅ•/ğÃ?ˆ±S}VÌšã5 ¯°*jÀ€8zô(ììì”‚Ä€V«Eff¦ê„~ŞÚ(¢È#G(¯´Œ¨¯¯§J2zp=q9s¦ò´: ‡ãÕÏK!k{{{*..VTaÊ”)B2¤-+®Ö0€«¢Ö¯_oooe!ĞAØ¶mÔjµªËY¤»X­ˆ‚‚‚°wï^XZZ*O©ƒàêêŠÚÚZddd°V°&ÄO24íÛ·O×;ÊÊÊÈÎÎNÈÔ²Ì”ie1«ì|||ğÒK/)¯n'@ïŞ½-¤ê‚ö~`à6«êvïŞ­¼²W®\!+++!£Gğ“F‰ ÜXäæåå…(¯l'‚fÏ-ô¨ä>ÎìNÙ^UU…œœA§Ó¡ººjµpvv†··7áèè(ûC©©©ANN
+¡ÓéPUU[[ÛûÜú÷ïÀÀ@YN¨ccc‘ššÊZí_ü{[SJ%ë©kYY™¤CdKKıòË/´|ùr
+
+
+2ùaÀ€´hÑ"JKK£ºº:ÉøeeeÑŠ+($$Äd#œ~ıúÑÂ…éÀ’Ú¹<õÔSB¦–V·0ƒ ×©ĞÜÜLÉÉÉÂÅ÷víÚµtóæMn‚İ¿?=ıôÓ¢¹9;;ÓêÕ«éÆÜû0!!A§¥­‰c#ë…¾ıö[I„qáÂ1b÷`'†¶mÛFÍÍÍ‚¹eggSxx8wnööö”˜˜HwïŞåÖyyyB¸|×š8.²\ÄÅÅ…¸cëÖ­bhÛ-ááá‚BEíŞ½[è‚ÉeôèÑÜF8"¢ĞĞPVUnºha¹ÈâÅ‹¹O#K—.•-¶çÀMıÑÒÒBo¿ı¶¬Üx…µÚ¸q£ÃÇ9¥´´´Ğ«¯¾*{ğWwww“
+ccceçÖ·o_*--İ·çÏŸrÿ×Ç–Ê\Ÿ×­[×aÑL555mrÛ²eK‡q>|¸è¯™¦¦&!!¦>PÿÍRyèĞ¡Ü„‘Î+h‰àİ*·ÌÌL¡;ÜÊ²eËD÷ñ¤I“Xïûûƒâ`Ú2å"Œºº:ê×¯Ÿ¨OÔÈÈHš7oEGGÓ˜1cÈŞŞù:tüøñ‡¸566R@@€`nnnn4yòdš?>-X°€ÂÃÃù»ªT*ÊÌÌÕÏ~ø¡è@–€!Ü4Såï¿ÿ‹8Ö¯_/¨ãGEÇoÕƒ®¢¢‚6lØ@nnn&_¯OŸ>”’’òØW“ncÇ¥Ó§O·ú¹\UUE7n$“¯çééIiii¢úùÌ™3BÚâ²1U,**-NG=zô`&½nİ:“¬ÚoİºÕ®_‡‹‹mØ°á±y½±±‘Üİİ™¹%&&šÔöŠŠ
+š8qâ¯Õ³gOÚ´iÕ××‹îëòòr!â˜zïˆŞäJvvv¢6‘îaçÎ‚B7°
+pØ°a­n†½óÎ;TUUÕj½””fn			LÜôz}«›i†Ş}÷]ª®®æºU  8î ğ>ëê"""˜Èz{{:#ÉÉÉ!µZM H­VÓŠ+èöíÛ\m1CBB9‰—””££ãı°İ111’U	Øû0Dà—ÕºüöíÛdii)›ÍÈ_ÿúWzíµ×LÚ7Ğét÷Ådj9pà€`n6l …RII‰¤˜QQQ¬âøÀ?tíÚµ¢‰~÷İwÌ>·²Ê¤§§3qsrrâ².ñññ¬âHWpe9ğ÷ôŸLùÂ…L¿‡««+ä +·	&t	Ï>wwæH.* ½XjğÈxtùòe¦ß:T¶Ndå6dÈ.aæààÀlÌ®à(·8JKK™~,['²r4¨k¤€`ç¨2Z€Iy“ÇPVVÆô{777Ù:±3s“yä°a‘£¾¾rÒ¸‰€çf­jÅÈø‰à±øºsçä¾§9p<mT î²ÔĞëõ¢‰²Z«³¾ÍæÊM<·;*â—›N'»Škjj:í&'71¨««c­ÒÄ,ÚÚZÑDYq×®]“­;37™ÅqG@+·8ú÷ïÏôû‹/ÊÖ‰ıúõë´ÜÄ@ÀsÓ© TÈ=­øûû3ı>++K¶NdåvîÜ9s9ªT0x¹™ÖM¢Ö0bÄ¦ß_¾|—.]uÏ¢¢"455qç–™™):}AAZZZ$GEE… q0íúäææŠ&:zôhæ:Ÿ}ö™àûµ´´`êÔ©
+
+Brr2š››Ûüí¨Q£˜Ğ>ÿüsQŸÎãÇGHHRSS%Iaa!³ FËóàà`.§„C†aN˜››+è^Ÿ~úéc~!»víjÓ»,,,ŒÙ“Nh¦ì÷ßÿ¡kùøø<‘›PŒ7õTv`ğQ`Ê%Ïƒø{ï½'ÈS5í×o¿ıvß æÑDû÷ïÌ²-11‘™Û¤I“˜~Îœ9C¶¶¶mrKIIábuGDäííÍÚ¦À“ƒ©bAAh²7oŞäö8mÚ4Òjµ&İ#33“úôéc’%×¡C‡²ñâöøÊ+¯˜lÛ‘NÎÎÎí^ó€Å ±±‘Ù¸
+À‹ à…òv[´h‘ ooooÚ¿›¢¨¨ˆbbb˜r£=jº|ùrAÜ(--­M?âÜÜ\Z²d	ÓÃ›İ*''GP”Ÿ{Y+¸˜ºRYºt)vìØ!z‘tãÆùÌ`8L5júöíÔÔÔ ;;üñÓÂ.   —.]‚­­íı»}û6üıı¡ÕjqëÑ£BCCááá{{{TVV";;›Ù^Äßß/^u†“œœÌ'¬	äd9Í¢ªÀÀ@n%!Vè<‹­­m›NC{öìéPnjµšKJ#ôC
+ŞÌJ\èê¼5'ê3ftØØ»wïùÍ=»CxYXXPjj*—>áç¡xQ3XÉõÕWÜFúúzI¢´W>øà“üK8¥gÆÖ­[¹ômYY™”1ŠÃ“µQQQ\¿ÃµZ-M˜0A–ÎW©T´sçN&nãÇ—…›µµ5}ùå—ÜúõàÁƒBx<¶K™Ãr“?)Y>¹Şxã1ÉeLŠ{qìØ1fn’—0` >}škŸÎŸ?Ÿ•GéTÂ6ÖÆ|ñÅ’øX9r„|}}¹QQQT^^.ŠÛáÃ‡Åä6iµXZZÒâÅ‹Ÿ'Dôz½ØÇZû|™ÌÚ¨qãÆIæ„ÓĞĞ@Û·o'???Ñ¢˜>}:]¼x‘k§'%%‘hQÌ™3ÇäğS¬8pà ·¼÷v t¬/µ_ss38q‚Ş|óM“c}ªÕj
+£-[¶Ğµk×$åöóÏ?ÓòåËMæfggGcÆŒ¡¤¤$®áZÃÌ™3…ˆã¾“Å#ù€9,»%ñññHHHÍ.A«Õ"77%%%¨¬¬DMM,,,àââøùù!88VVVZ­yyy())AEE´Z-ˆ...puu••›V«…»»;«íh! ß¶ş“9M¨««+÷…©ñØ´i“QcÓƒbxÔp¡†¼&§ûÑëõpuuEXXt466âå—_bµà¾Qì£YôÆ©…	›7oæâ² €’““qãÆÖjù ²4r À- KXí=<<ª<™Fss3¢¢¢PYYÉZ5ÀS~xu¾òòò"N§LöŒ}ûö	Ímÿ˜Ù}[Æ’µ`Ì½¢Õjq÷î]<ÿüóÊëÛAĞét˜>}ºµÆ &éZ(aU ••ışûïÊëÛAX¹r¥Ğ9æ¯‰!7Šˆˆ0)¤¾¸té’ĞhËm:Ş<Éÿ"€WÁÜåêÕ«ğööÆğáÃ•q^&fÍš…ââb!Õ_'¤âr!£‡³³3]¹rEyeÂæÍ›…N'¿¶²Kn2l! §= 1b„$Éz<ŒŒŒ&CêGÊä'=üö\»š;fÌ…oŞ¼‰ªª*L<Y÷%Bee%&Nœ(dO ~ğ.'„Kıõ×Êë-Ñ‰pdd¤Ğã.€Á¼D A'''åóV¬ZµJŒ-É'¼G±¡dÜÜÜû¹*x}ô‘a\À=ë±-€¿%åãã#IîÔî†={öˆµ±}Aª5PˆñäV±ª¬¬T°@¤¥¥‰M+ö…Ô‹ä¿ˆ Gaaamæ9QĞ6¾ùæ›6=òM,ù¬šB ğ_b2xğ`nsİ‰‰‰b“$6 ÍÂUèæğ”ç•X×\Á1ÙñÈŒ§Ô‹!İ«W/ÊÊÊRTĞ
+ôz=Íš5‹‡0ş³£6é^cšóG‹½½½dÎQ]¹¹¹4|øpÂ8V¼×äÄj yóæ)–dD”œœL†‡0ş†˜+Rb'rõLëJĞjµ4oŞ<^.–WôG'
+À>³³³£M›6Ñ;wº0=ÊÓ7ø:Œ	ƒ;¬ |Ç©4hĞ :qâ„Y‹¢°°¦M›ÆÓ)û€ ÎzŠlà 81™;w®Ùí‰Ô××S||¼ ˆ…íL%Ouv3+0æªm¯8::ÒªU«$w<–:¶lÙB¼c{äğî*v(* Û9w ©Õjzıõ×©°°°K‰¢¼¼œâãã©gÏR}9 OW4VŠ3Z“qí+++š;w.¥§§s‹ğ+Î;GË–-ãõiÚZ9À¾+[³Í€ÁIJ’òôô¤¸¸¸NcP”ŸŸO			äïï/eˆ¨ âq_ç.‰ÁÆSAIcj4ˆV¬XA‡–íä·¶¶–;F«W¯¦‘#GÊT®Àt9š…Œq,¥±ÉC–Ó––:t(Æ‹aÃ†!   şşş¢Òët:äçç#//ÙÙÙ8uêÎŸ?oRNøİxd‘gnâ¸w¿¥0	éœ›={ö„¿¿?¼¼¼àââ888ÀÑÑNNN¨­­Emm-êêê ÓéPSSƒ²²2äåå		kÀ- ¶ xŒ9ùº"ÁàPCJi·\0İV0øãê´aPßáàE•tpô+1L43wgQäÊµ`ïŠP˜e\w'QÃ`Êg¥H }Xø7ã›dÎ¢ø€…Æö*0’¼ à¤	¢ëıÈØJ0[<à#òàvEQ\3ò÷U¥t°!®Ä^ U]@Û ŒA<±0¡<c¢#;Áçß]bl3–_»›]æ6çõ†!ËP^C`pÀ’
+Å08—gÈ€Á¶¢Î\:³;,ˆ<`Ø®ƒµTŒczË½pN0D:j„ÁY«†|î•Æ?oÂ~³@€? hÍ¹ãşF¸%Éš+    IEND®B`‚
+------MultipartBoundary--AkoDX1rkmywTS0Xh9UBRgVr1gZDEaPqW5Meyh8HAxY----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://wiki.creativecommons.org/load.php?debug=false&lang=en&modules=site.styles&only=styles&skin=vector
+
+@charset "utf-8";
+
+.floatleft { float: left; margin-right: 10px; }
+
+.floatright { float: right; margin-left: 10px; }
+
+.containerBox, .exploreBox { overflow: auto; }
+
+.printfooter { display: none; }
+
+.jurImage img { border: 1px solid rgb(192, 192, 192); }
+
+li.jurList { display: inline-block; }
+------MultipartBoundary--AkoDX1rkmywTS0Xh9UBRgVr1gZDEaPqW5Meyh8HAxY----
+Content-Type: image/png
+Content-Transfer-Encoding: binary
+Content-Location: https://licensebuttons.net/l/by/4.0/88x31.png
+
+‰PNG
+
+   IHDR   X      TúÒ    cHRM  z%  €ƒ  ùÿ  €é  u0  ê`  :˜  o’_ÅF   gAMA  ±|ûQ“   sRGBÙÉ,  nPLTEÿÿÿÿÿÿÿÿÿÿÿÿïïïßßßÖÕÕÓÖÒÒÕÒÒÕÑÑÔÑÑÔĞĞÔĞĞÓÏÏÓÏÎÒÎÎÑÍÍÑÍÍÑÌÏÏÏÍĞÌÌĞÌÌĞËÌÏËËÏËËÏÊËÎÊÊÍÉÉÍÉÉÍÈÈÌÈÈÌÇÇËÇÆÊÆÆÊÅÅÉÅÅÉÄÄÉÄÄÈÃÃÈÃÄÇÃÃÇÂÂÇÂÁÅÀÀÅÀÀÅ¿ÀÄ¿¿Ä¾¿Ã¾¾Ã¾¾Â½½Â½½Â¼¿¿¿¼Á¼¼Á»¼À¼»À»»Àºº¿ºº¿¹¹¾¹¹¾¸¸½··¼¶¶»µµº´´º³´¹³³¸²²¸±²·±±·°±¶°°¶¯°µ¯¯µ®¯´®°³¯®´­®³­¯²¯­³¬¬²«¯¯¯«±ªŸ£ ŸŸŸ–™–“˜“‘”‘‘“‘‰Œ‰„†„„…„‚…‚€€€}|||y|yproppp```]^]PQPPPPCDC@@@>?>565231000)))()(      —:   tRNS 
+ç!S  øIDATxÚµ–ëWÚ@Åi—5Fc-D"46Uâ»P¬EE‹Õú¤Š¢ò°`äş÷=	¨€£Ö9ÉÙÙıÙ;;wcx	ƒ¾I·Sl<g6sÖ~At¸'|³Áp$ú}mccsûñú=c.ÑneºÍdjë`Ø>»èõørlmcóId‚~Ïˆc€géã|EÙD%Dw[…!÷g0¼¸[¿›rª¨L,¦´ÁÏˆC°0‰Ë[.÷³}Ğí™.,­ÜIy¯ÒéPÚÓûÆ‚™Î3I¯7™‘d‡ßÚ‡F}P$ÚœòÎr!„P9\íi€']…+'¤q(›×ÄÌ\XM¹~I	B LDIìy&H¹	£d«èöB‘åÕ-RÈ½¹“R­ÁÎ÷lŒ„4’÷»íñ™àüRl½\D]Š­Á¢•¾„ÜKÂ(ã’îİ_áÅF-PP¾g 
+B
+hz$iŠ8pÄ
+®)(²ÜNU‰ªi°­+ÙHˆ7W($«Ã!DFéW´Xˆ®>ÌÓe[^õ¶Ô!£l¶Òaı:7=M
+®8 DB™ò–ã$j«WµhãD·o.¼Ô ®¯š°fñ,&À«ÌLVÔäö&ó‡»àrDßq{$¸¾AÒšr+…±·œ” )Ck)ô·t­xµªİ/
+ÍßS¼íí eÒÒC&dëÊB&7Çm« ¤Œ<csŒk>númSèI¨ZÜ× Ÿ¦fC‘fÒkôÕ–¦ô¶´~°ó=»{Ÿ	%X»sb&¸ĞdBúÁ8å™s@ª³!JµMş÷³®i g\g½Ñ“2ğ‡¶œâ¹`œ˜;Ï›®&úİ¯–kªıê«	Æ	ÇìÖ_¦	ÆÒšR{Èƒg<K'®¯ÿ}šåµt¸¶Mè ãïOkOİn2µÓÛ÷ãBk!nÁÀÅá4ÏY,?}x¡]—Geüÿÿ
+_½÷KìŠ¤İå    IEND®B`‚
+------MultipartBoundary--AkoDX1rkmywTS0Xh9UBRgVr1gZDEaPqW5Meyh8HAxY----
+Content-Type: image/png
+Content-Transfer-Encoding: binary
+Content-Location: https://wiki.creativecommons.org/resources/assets/poweredby_mediawiki_88x31.png
+
+‰PNG
+
+   IHDR   „   /   "ŸbŠ  —IDATxíšpY¶†õ(±-ÙÉ0¼áeÆÚZfŞ}KÃÌfœ0'æÄaSœ˜™E›QÜb4$úßéS©.k„bUı­{ÏE÷ùúÜÛW–ı˜ÍfyccãTƒÁ #y,‹ĞÔÔäÕgG¢OEß’µZídÑç²s}„ßF—×ë|ûí·1úùl|Ş{ï½sê­·Ş‚Çã$0œæ7ÿÃƒ---+êŠƒA‘#@Ñâ~†A­Vßb2™<ï¼óÎèºB%ú^¯×{êëëo–£Ñè{ï¾û.Fuå*‰¼GÁa¿L¥RÙEÃ¨F¥T*mâşA¸Ü„›/iÿGu¢!ˆK†pizşÎ¥Rº«ò¤‰iÉõ:ä“].)§|è­HeÇ·~ú£
+4(0·r¹S÷58ïuÈÇ$z³”DK† /l¸Dòw,‡å„çvX«¿„¶"9ºjå:3rîF·JN@|^ªætë6)?·Ñ÷iN_ZŠŞ2YCCÃ%¢·ò´Íõè.“£§*>M„¶—`W§¡³A§öfz>`ïØRáë^x>Øuÿ@oÃ÷)İŞsˆœÂÒB=V—˜°»®`ìã{ †½õm	¶ÁÓgx¾kKÍ8¬îäüå˜K]] ©'.‘ˆ4tUÉÉùÊåè®‘Ãß˜¯n<:T
+t4(–á0Ş‡*¶†4n7ëSG6ZNlÊo"`ßyŞsp‡âøïvbáÉF<±··L;O$Îe·ê;İ¸giN‚-Ú?ÙsÛ17W‹,ÏÅC;Ë/Ë\jkk]."g†Ùl5iè¦§^Ğ¤À«¡QOB=~U‘ÊriÓ´Œ‡K£@ÀºBç8M_†¯éZúş"ì_…«ù_ÄØ—vIù¯:,]7EALÎPâkó3ğÇ…hìõbàÔiüÒá¾®ûlz5ÎœyqŠ2dçoƒÍ‡¿l.Âwgáõ£õÅ¹.ş´±sr5¨ëp3pbÛ»—äàï[KĞæqÓgÎ`E‘?\™‹ßm(äô@Pd8£İ‡Ûf„ÙáÇã{*¥:]n¼r¸î¢QSS#ÈèrÑ€°+¿[İ5ˆz¥‰ÃQGË9İÛ˜‚ ^/Áà#ÕcĞ¥VğÂ¯“# M†G#ì†ûàm¹¾¶ào»¿ú¯âô©ø1æ¥èğ„PÕæÄõ“÷ÃHNıÇ¶ºÙG4¸qJ::©ÎŸ7qŞl÷³c4=rôİäÀØüQÜ45€ê"'É)µøåÚ<‚æÒ^Û‹çÔÀŒ±“ÅˆÔ.±§®•ûöGû0û¸?Zyên•­Ü5ë0×¥ö’"£8î¢<~Lugf«qŠà¸uúA˜ì>®óğ®rl(7súb©²²R‰—ª˜QØˆÏÿj¾ùçÅøÅëñ»g7IeßùëR.ûÉ£k±ß|4e§¢»>ÎÆÛJé©¿½ät79<Dò«“PAP5A J"ÛXôr€ar™¾€Eë×â«¿ƒÇi0tñ¸¯->Æs¹ûËÙ>wÃÉçï"ıÇóÛù‰ş	E‡ÌÆ.vâÕ=è<%Õ{ùP-çë†v”qú·ë0ç¸†ŸÎteíCŒøò¼£˜’¡d½~¤ÿùüBÇ íñ å•İb¹¤›§ÀAU;·¸Ò˜Çõ=#ñf¹™ûç%.Áà¾¼}®#¨±¾‹
+Dyy¹ £Ë±+£ÿù•—ñÛg6+÷d.kérs¾»ên˜sRÑY+îÔ7ÂM÷(“VRt¨oe¼5”.¡†ÒGXC Óh¹V‚Ám¹!çAî÷­Ä³—¡\Ùš0>Àã¿0ÿğûAKF‚ÍéCêk	@ğÓ¾´@…lzÙQBßY”…ÛgbGüÔVw$ˆ c ‚±~(ä°auZ]Aüï´hvJ@ ÀlˆÓ§9û–çz‘UÅF<—^ÃeS¥¥¥‚¬¬¬L8Máè}” ÄPû©SøıÓK0kÙ"8:³qjp ¦£ã`>¡@W¥=â’ L"€ò1ğ¡¢ÿ·‚–âÿ§«Ç¢_51]b”p¿;m6º¯PÄ¹öÆo£×ğôĞ9H@<?ïĞHó—€øwûß¶”Ğ“_3…á#ê^Jº<!.{lw~¶ú$§±&6veœîñ†¹Şş†Vm^<»¿š—*c Æ Aöı%Ù˜•£æ¾7V˜yÉğ„cü”ÿpE.T]nZ¾øêüc¸›êW8ŞÏ@˜{yœ&§Ãæpµeu½Î_L•””2ºœç.¸÷Àmú:œ†¯Âaø2Üæ»ÈywÂ¡º–\L©p'ÁW4"Š …ÿƒî#caËLFëş¸O(ùFıY Äe¥‘¡@ÀrâF4	Nu2ºÄWV9,º-4..ÃìA
+¹“3xS)îÔİn©¬®Ã…cšNNg6v¢¦İ)•iºŞ„~qÎQ<³¿JìŸíï,§§»ŸÓÎ`”Ë¾4÷(şğf!ƒAvŠHƒX^¨§}D.~½.Û«›1=K•0¯Xÿ oDEık{)J›mRÙŠ"=½yçôÅVqq± /§NÂûiç±Z	ˆ¡ö°§mÚ'`Õjìuä´J9¬$_}2<‚%$Šå‹	miP.QÀ°*ÚÕ
+è×¤Á¸QKºŠ‘†1ˆ«“ÑP[Zfœªdğ«©ø:ªNÅßŸŸŒ²†–„9ÌYB‚mŸqı|ÍIT¶_’¾‹ŠŠ]ÎÖı/OCsîÕhÎ‘£¹@®29ÜUIà%¡n,/åP¯HEİr4,’CµTš9)¨—í²T×¤¢e/ATK0Ğ†3ªe `S¥ğŠC}3~õÄRÃ•DßÀ –‰{œ¾KÒAA +,,</ "î¸-¢Uızt¿…Ãğ}x×!hHE?9“ÄË€¯&	rx=ÁPO TOMFş¤’*g%£fn
+Gã<%IÜ&¬¦¨"fjäğ´Oâ½ÊX†_?6UÊ¦KÄààà©üü|A&^>¨â£5|Óóô›œèÃ¦¼Öz¼æ«!m[o€äo»ã8ÄèioÙ­€v¹ÊÅr”MNÁÑW¬c¤LRå”$ÔÍ“CIQÃ~2ıÔ&H0¹ÔI°©SĞ­R WÉGŞ°ÕCµZ7tnÏÍ=8âü;Üä{PÙb?gy(çr§/ôÆjºİPvº8m´zPİêøPíy»7ÁîÄØNå	vƒûnqúPÚde[·'Èuû†õoõ…¸,ŞßÎñóòò]>*’‚®LØU·À®¹Ní-pî„Óø%ú¾-R—Ã&Šä¨‘„c¯ÉÁ0¼¦@Æ«r
+VÕÌdZJğäÑSŸŸj,ÃĞÙ G¯xì]}¶n}	c¾ñ*Jë›?2+
+õ¼k§ó¾aÃş¾ê&±œÕêô_0¢'½¡pú™}UøÆ‚ŒÛ–ëşr-·•”ŞĞÊsÓ÷
+Cáá·Gv•cvZL³}K¥…ëFãÃ¾·®…Ë¼áØ9ÇÎÍÍd'Nœˆ¦÷ÑP †Øû:`U~-9v§¢93İ…r8jä¨R¡?˜Šº…Äœd”OINŒEÎD92’Ú7ä¼l8‹’8BÄÅAK×º‘¢QŒÇûÒoğJêšæ6{]®ÄHó_^ C*B)H«‹õÃÊ½.O<}ä›Õâğ±íÄ@ütÕ	NŸĞwc[•åC·x´ç‰õI¶—ÖğÜ6W˜%ÁÁ6ÑÉeÖØNuØ>¤}B›EyZ„cñs}üøqAFTœ±€	!¡Ë6,CfÆ\¸ÚVÀ®¿~ÓuÇ#&UÓÓ®Z¡@İ,qÏÌ ‚u‚ h hW¦B½NH=kÃ¯I†C÷ôEmˆ«'ìÃÛKé(;¡Ìîó_/ª„ÙæÁ«‡kñÚÙ?¾»uía}[l^¼r¨–Î4Š¹®ÉêI âˆª+!<¦iÇƒ;Jéµ²˜uøÃ˜t´N[zy¥«Tÿ[3‘ôò.<´£L²‰íşë…Ü6ÏØy¹ês¡ë¸ou—ªN§CÑs‘““#ÈèÂ@ô÷÷¨íGª% ş½ìš{'ÃXóg¸ÍwŠ{ŞK„š®B\¢€X•ŠzÚ<VLO‚DÑ`™–Œ:ÚlêVr„€»"‰O4=ê$XUâÏæW!ä>™ Äñ% s`¤ù3ã^ßƒìÆ>Ân²{¥²µ%È_İ<C7ßÈæ³e'ô]ì9AsaÆ¿¾—°¹Â$µÍ'G¤P9ıNBgÇpÕ„½| F§‰Õ‘–JKyqœk&îã6bÛ»fbÛö*92ÎÑlf¶’ëÁûäŞ
+Ü9ó°ÔÏŞ,áæô¬l•¸dpzS¹‰û
+“Ó‘(¾BÇì÷-ÍA4ÇÚf.£>ÏyŸ²³³™xaÃy àP_§&¾–ë¯NÁ¿SÄUI%ÈÉÅÉĞ´,M’óşA#‡–ŠòÉÉ¨¢Meı"ô›0î”Ã«Ã¯œ~Â¡Næ3ˆ.•‚À¸µE…R«9/ ätñf_;iæä¨¤²{é¦ş“€Ê›­PDŒ(|Ãş×ó‡£øë¦"vx·€òb/Ì>B€y¸N(£5½Œû9ûëygÍ…mF«€;fJ@°íÏ›
+E'r:§±“Uu:¹N§ÛÏÎM{m |? hœJ¹Õáã²"33SeeevåWĞ].çÿg°ªğ˜®…µ*=”P¸êS2^MPÈá,Iá¥£~A
+jç§ jj2j§&¡‚€¨¡è _¥€y—m‡åhÍÃE ØÕ)ğ›ÆÁ¡½™A`éîC<êùÈ@Ğ“Ìég÷WÒ	ãN“#9bdj:Pbé•€ØQmáôae›XGRE³•7¦Kò´ts›¸N±¹}}}’üáSœzo¥§µ6£A8KhsTİÆ}m«4s~c™‰—1!Æ”cõôÛI.bñ8;w_]3*›m\¿ºÕÆõgf)JK@¤×·ğßv ¡EgwÏî@XÌÓ±cÇ™xaÃÈ
+ÄY[%Y+¿ƒÖú?ÂZ{=ºª	¡¡¡Kƒ_öFx›oDH•wéX˜·§¢N„biÁ0_ÓºT8Š’á.OAHG`ìQÀ¸Gn¥½j‚CÂ¾*iÉ(®µ$ÌmÖÚã#ÍY~£ødsºô¬ãëÚì˜w\ÍO¹è B“´d`FV§GÒS¾gg«H,6l¼?R8?wR$ }Ì°úä  Úœ^ÎghÚé˜:Ó2Øş:ê~>½
+s«8Ò$#ÁËÖ÷e±íÃqäÈAF—)î¦'÷f½ÕrŠãá2şNím°U¦ÁÕ0`¸Ãˆ˜ÒÄ'V°v,:³R`Ø¨@ûA¹I°åQD1Ğ²£LFĞ˜†æj	3}óI%ÁõÈ¤=qœÇûøN^£à—çÆö<C—Äò‚Fé);©ï&5…ï:®Óîôïî%YçâÛodÒÏï¹Ãê›¬B$Ş_x¼ÉÖv° æ¾~´"÷o/aÛ@HÎßRaşĞ@:tH‰—8‘ö~Úv¸Šoú¯ŸÚ0¬lÜ÷'qYK‹çÒÊ¡KWÀo¼‚ñ68õ·Ão¾á†dÄt)ˆk)ZÔƒ»:	AM
+¼UIèÈT Ú(‡×x Ğr„¦ëÑ–—¡u\­ÏaéÆe<NQ9aü!@Œ4‚Â§”Ÿt´7‹òM=lËÕur¾Éæ¡ÇÍO?=™	ıÃÈ©Ğt:	
+÷ùBzUBcÛ	ÎŸ‚ÓÔò±ªÅšĞæÑ]e”—ê&¿¼›çáô…Ø–OĞR7¢»ª›¤ºgàôÆ2#÷GñÜş*ª¶Õ.–I@¸üÜß0<xğÃ±/»7ü`:ÿ#ÊÏ[7¶İôÃ°k®‚UI‘Buœêk(:ü/\º›àk½N|êÙù~JGŒ	¿·éóZ®†§†"Fv
+‚:|Æ(²¤Â^¥`(ÄMªGwjJÇm?Ås¨P6ó¸//<ÌsùÆŸ±}Ò²Œ÷‚oD,Æy(ÛgÃêÉ–ÓØ!AyŞQB|	Ö•èñÊÁ2ØP õûì~®ÃKÄVz'©c'„ÕÀ­Ó0Œ“Õq›ß¬Ëãú‰@°óÙF‘B²yƒƒE¯ø@ á½²fà¶éaó>ˆôôtAvàÀ"‹½¯ìÊoÃVŸOïFrô/)J¤B0‘3µãá£¡S{=M|Ä E	á{p™ïdP5Éè.Nµ„ Ğ+à¶ÜÉÿeåÖİJP\Ë¿¢òŞ¤s-u>ÚD7é‡ŠD$ÛOh£67G%åÉ\§Íáó\÷ÕC5R$!Gğ“ì†¥6‘hrÕü
+Iu†—VÓÏà¥¸[	×™z¬~¶÷ÿ'ˆúã69ÊÂclh‘êÉ™´¤dµ’MÔo×çáwëólË	xÚ/pz_m3÷Eí9o¤hG›h³G”­\æö‡ÎyŸñÂ†óİ§á~úæÅ?S÷]-/Á/¾a4ÒæSÿ},ãáo¾~-Ae.-í/ÔÉè,MA‰N;ùÇ,A#<æ[ö 4~N±¿*‚¢R!qÅ`4SÔğ‡Âï[Çî Š|è~	,nCéOŒöíÛ'ÈÄËÅìÔZ£@Ä}’¢ÂáÑ\hÈAé;á0ŞAC›2Ñ°€“W¡£XítGÓàÕ¥ÂZEKˆ6§¦›!´¾Hı‰°ıöùƒŸò|Ã?ÑŠF£ŸZíİ»—.f§á@/ÛÕ´AlzÓ.ËãpkÆñƒµV¶éïCg…íurŞ<v•* ´M…Ãğ#¸u
+1²P½¸Ïí2ÜQíÚµKíŞ½[¸;´ß£ï0§#!ï:I¶ºÛÀ¶ •ÿÍ®«‚@è^‰NŠBó¿„àÖ“ëSduÔåB¼D"\R…è*—ó^!äï’ìÃShÊ•#àª†ËğZnÒ¤2OÓpê~ÈéË£QíØ±C‰—K?XNãŸáí^3¬¬½èv„BN0 êïpİQç|<Ú¾}» £Ë‡GõĞÖ­[Ù–-[13ªQmÜ¸Q­[·ÎvùU(úÄjíÚµ6ÙêÕ«Z,–÷ØxÅjT&“é½•+Wî—-X°à–õë×{}>ßz3F%ú~Íš5báf™øY¼xñıÛ¶m‚€`0xiTn·›7o,\¸ğŸ²¡ŸE‹ıB†³¢¢bĞét~ÆoÄ¨ÊÊÊ—-[æœ7oŞodçúLœ81™Hy•*éûªU«<Ë—/|’Ds» ŠüêY±b…}éÒ¥´D¼BJÊÀÿĞ±ƒTSÄÊ    IEND®B`‚
+------MultipartBoundary--AkoDX1rkmywTS0Xh9UBRgVr1gZDEaPqW5Meyh8HAxY------
