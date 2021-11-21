@@ -1,3 +1,5 @@
+[Global_Network_Membership_Charter.pdf](https://github.com/creativecommons/global-network-strategy/files/7576474/Global_Network_Membership_Charter.pdf)
+[google_privacy_policy_id.pdf](https://github.com/creativecommons/global-network-strategy/files/7576476/google_privacy_policy_id.pdf)
 # Creative Commons Global Network Membership Charter
 
 * 07.11.2017 Public Version: https://creativecommons.org/network/charter/
